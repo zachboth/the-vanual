@@ -3,21 +3,70 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <div class="left-side splitscreen">
+    <div class="wrapper">
+      <h1>The Vanual</h1>
+      <p>The complete guide to complete freedom.</p>
+    </div>
+  </div>
+  <div class="right-side splitscreen">
+    <div class="wrapper">
+      <h2 class="page-heading">Manuals</h2>
+      <div class="manual">
+        <div class="manual-header">
+          <div class="manual-title">
+            <h6>Title</h6>
+            <h3>Build Manual</h3>
+          </div>
+          <div class="manual-info">
+            <h6>Info</h6>
+            <p>From beginning to end, this guide will walk you through the DIY process of building a sweet conversion campervan.</p>
+          </div>
+        </div>
+        <ul class="post-list">
+          {% for post in site.categories['build-manual'] %}
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <li>
+              <span>{% increment '1' %}</span>
+              {% assign image = post.images[0] %}
+            {% include image.html image=image %}
+              <h2>
+                {{ post.title }}
+              </h2>
+            </li>
+            </a>
+          {% endfor %}
+        </ul>
+        <div class="clear"></div>
+      </div>
+      <hr />
+      <div class="manual">
+        <div class="manual-header">
+          <div class="manual-title">
+            <h6>Title</h6>
+            <h3>Vanlife Manual</h3>
+          </div>
+          <div class="manual-info">
+            <h6>Info</h6>
+            <p>From beginning to end, this guide will walk you through the DIY process of building a sweet conversion campervan.</p>
+          </div>
+        </div>
+          <ul class="post-list">
+              {% for post in site.categories['vanlife-manual'] %}
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <li>
+                  <span>{% increment bdoo | plus:1 %}</span>
+                  {% assign image = post.images[0] %}
+                  {% include image.html image=image %}
+                  <h2>
+                    {{ post.title }}
+                  </h2>
+                </li>
+                </a>
+              {% endfor %}
+          </ul>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
 </div>
