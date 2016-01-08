@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Money and Time"
+description: "Something something. so much stuff."
 categories: vanlife-manual
 number: 3
 images:

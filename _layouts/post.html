@@ -1,51 +1,87 @@
 ---
 layout: default
 ---
-<div class="post">
+<style>
+{% for image in page.images %}
+.post .left-side .animate {
+  background-image: url("{{image.background}}");
+  background-size: cover;
+}
+      {% endfor %}
+</style>
+<div class="post m-scene">
  <div class="left-side splitscreen">
+  <div class="animate">
     <div class="wrapper">
-      <a href="/"><p>Table of Contents</p></a>
+      <a class="toc" href="/"><p style="display: inline-block;"><span class="small-arrow left-small" style="float: left"></span>Table of Contents</p></a>
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 {% if page.categories contains "build-manual" %}
-  <p>Time: {{ page.time }}</p>
-<p>Difficulty:
- {% if page.difficulty == 4 %}
-        really fucking hard
+<div class="difficulty">
+<h6>Difficulty</h6>
+ {% if page.difficulty == 1 %}
+        <span class="difficulty-1"></span>
       {% endif %}
-  </p>
-
-<h4>Materials:</h4>
+      {% if page.difficulty == 2 %}
+        <span class="difficulty-2"></span>
+      {% endif %}
+      {% if page.difficulty == 3 %}
+        <span class="difficulty-3"></span>
+      {% endif %}
+      {% if page.difficulty == 4 %}
+        <span class="difficulty-4"></span>
+      {% endif %}
+      {% if page.difficulty == 5 %}
+        <span class="difficulty-5"></span>
+      {% endif %}
+</div>
+<div class="time">
+  <h6>Time</h6><h3>{{ page.time }}</h3>
+</div>
+<div class="clear"></div>
+<div class="materials">
+<h6>Materials Used</h6><h6 class="disclaimer">Links open on homedepot.com</h6>
+<div class="clear"></div>
 <div id="material-slider" class="flexslider">
 <ul class="slides">{% for material in page.materials %}
- <li> <a href="{{ material.url }}"><img src="{{ material.img }}" /><span>{{ material.name }}</span></a></li>{% endfor %}
+ <li> <a href="{{ material.url }}"><img src="{{ material.img }}" /><p>{{ material.name }}</p></a></li>{% endfor %}
 </ul>
 </div>
-<h4>Tools:</h4>
+</div>
+<div class="tools">
+<h6>Tools Used</h6><h6 class="disclaimer">Links open on homedepot.com</h6>
+<div class="clear"></div>
 <div id="tool-slider" class="flexslider">
 <ul class="slides">{% for tool in page.tools %}
-  <li><a href="{{ tool.url }}"><img src="{{ tool.img }}" /><span>{{ tool.name }}</span></a></li>{% endfor %}
+  <li><a href="{{ tool.url }}"><img src="{{ tool.img }}" /><p>{{ tool.name }}</p></a></li>{% endfor %}
 </ul>
 </div>
+</div>
 {% endif %}
+</div>
+<hr />
 {% if page.categories contains "build-manual" %}
+<div class="article-nav">
 <div class="prev">
   {% if page.next and page.next.categories contains "build-manual" %}
     <a href="{{page.next.url}}">
-      <h2>{{page.next.title}}</h2>
+      <h2><div class="small-arrow left-small"></div>{{page.next.title}}</h2>
     </a>
   {% endif %}
 </div>
 <div class="next">
   {% if page.previous and page.previous.categories contains "build-manual" %}
     <a href="{{page.previous.url}}">
-      <h2>{{page.previous.title}}</h2>
+      <h2>{{page.previous.title}}<div class="small-arrow right-small"></div></h2>
     </a>
   {% endif %}
 </div>
+<div class="clear"></div>
+</div>
 {% endif %}
 {% if page.categories contains "vanlife-manual" %}
+<div class="article-nav">
 <div class="prev">
   {% if page.next and page.next.categories contains "vanlife-manual" %}
     <a href="{{page.next.url}}">
@@ -60,13 +96,39 @@ layout: default
     </a>
   {% endif %}
 </div>
+<div class="clear"></div>
+</div>
 {% endif %}
 </div>
 </div>
  <div class="right-side splitscreen">
+  <div class="animate">
+   <progress value="0"></progress>
     <div class="wrapper">
+      <div class="social-bar">
+        <p class="views">1k Views</p>
+         <span class="share"><span class="share-label">Share:</span><a href=""><span class="facebook"><i class="fa fa-facebook"></i></span></a><a href=""><span class="twitter"><i class="fa fa-twitter"></i></span></a><a href=""><span class="gplus"><i class="fa fa-google-plus"></i></span></a><a href=""><span class="email"><i class="fa fa-envelope"></i></span></a>
+      </span>
+      <div class="clear"></div>
+      </div>
   <article class="post-content">
+    <h3>{{ page.description }}</h3>
     {{ content }}
+  </article>
+  <hr />
+  <div class="social-bar">
+        <p class="views">1k Views</p>
+        <span class="share"><span class="share-label">Share:</span><a href=""><span class="facebook"><i class="fa fa-facebook"></i></span></a><a href=""><span class="twitter"><i class="fa fa-twitter"></i></span></a><a href=""><span class="gplus"><i class="fa fa-google-plus"></i></span></a><a href=""><span class="email"><i class="fa fa-envelope"></i></span></a>
+      </span>
+      <div class="clear"></div>
+      </div>
+      <div class="instagram">
+        <h3>
+        Follow the adventure on Instagram
+      </h3>
+      <p><a href='http://zachboth.com'><i class="fa fa-instagram"></i> @zachboth</a></p>
+      </div>
+    <hr />
     <div class="article-footer">
       {% if page.categories contains "build-manual" %}
 <div class="prev post-list">
@@ -76,7 +138,7 @@ layout: default
             <li>
               <span>{{page.next.number}}</span>
               {% for image in page.next.images %}
-      <img src="{{image.background}}" />
+      <img src="{{image.url}}" />
       {% endfor %}
               <h2>
                 {{ page.next.title }}
@@ -92,7 +154,7 @@ layout: default
             <li>
               <span>{{page.previous.number}}</span>
               {% for image in page.previous.images %}
-      <img src="{{image.background}}" />
+      <img src="{{image.url}}" />
       {% endfor %}
               <h2>
                 {{ page.previous.title }}
@@ -110,7 +172,7 @@ layout: default
             <li>
               <span>{{page.next.number}}</span>
               {% for image in page.next.images %}
-      <img src="{{image.background}}" />
+      <img src="{{image.url}}" />
       {% endfor %}
               <h2>
                 {{ page.next.title }}
@@ -126,7 +188,7 @@ layout: default
             <li>
               <span>{{page.previous.number}}</span>
               {% for image in page.previous.images %}
-      <img src="{{image.background}}" />
+      <img src="{{image.url}}" />
       {% endfor %}
               <h2>
                 {{ page.previous.title }}
@@ -137,13 +199,13 @@ layout: default
 </div>
 {% endif %}
     </div>
-  </article>
+</div>
 </div>
 </div>
 
 </div>
 <script src="{{ "/js/flexslider.js" | prepend: site.baseurl }}"></script>
-
+{% if page.categories contains "build-manual" %}
 <!-- Target sliders individually with different properties -->
 <script type="text/javascript" charset="utf-8">
 
@@ -164,34 +226,65 @@ layout: default
   $('#material-slider').flexslider({
       animation: "slide",
       itemWidth: 210,
-      itemMargin: 5,
+      itemMargin: 10,
       minItems: getGridSize(), // use function to pull in initial value
       maxItems: getGridSize(), // use function to pull in initial value
       move: 0,
       slideshow: false,
-      randomize: true,
       controlNav: false,
+      prevText: "",    //String: Set the text for the "previous" directionNav item
+      nextText: "",  
   });
 
   $('#tool-slider').flexslider({
       animation: "slide",
       itemWidth: 210,
-      itemMargin: 5,
+      itemMargin: 10,
       minItems: getGridSize(), // use function to pull in initial value
       maxItems: getGridSize(), // use function to pull in initial value
       move: 0,
       slideshow: false,
-      randomize: true,
       controlNav: false,
+      prevText: "",    //String: Set the text for the "previous" directionNav item
+      nextText: "",  
+  });
+
+  $('.article-slider').flexslider({
+    animation: "slide",
+    prevText: "",    //String: Set the text for the "previous" directionNav item
+      nextText: "",  
   });
   });
 
   // check grid size on resize event
-  $window.resize(function() {
-    var gridSize = getGridSize();
- 
-    flexslider.vars.minItems = gridSize;
-    flexslider.vars.maxItems = gridSize;
-  });
 }());
+</script>
+{% endif %}
+<script>
+$(document).on('ready', function() {  
+  var winHeight = $(window).height(), 
+      docHeight = $(document).height(),
+      progressBar = $('progress'),
+      max, value;
+
+  /* Set the max scrollable area */
+  max = docHeight - winHeight;
+  progressBar.attr('max', max);
+
+  $(document).on('scroll', function(){
+     value = $(window).scrollTop();
+     progressBar.attr('value', value);
+  });
+});
+
+$(window).on('resize', function() {
+  winHeight = $(window).height(),
+  docHeight = $(document).height();
+
+  max = docHeight - winHeight;
+  progressBar.attr('max', max);
+
+  value =  $(window).scrollTop();
+  progressBar.attr('value', value);
+});
 </script>

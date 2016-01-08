@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pros and Cons"
+description: "Something something. so much stuff."
 categories: vanlife-manual
 number: 1
 images:

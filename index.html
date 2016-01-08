@@ -4,12 +4,15 @@ layout: default
 
 <div class="home">
   <div class="left-side splitscreen">
+    <div class="animate">
     <div class="wrapper">
       <h1>The Vanual</h1>
       <p>The complete guide to complete freedom.</p>
     </div>
   </div>
+  </div>
   <div class="right-side splitscreen">
+    <div class="animate">
     <div class="wrapper">
       <h2 class="page-heading">Manuals</h2>
       <div class="manual">
@@ -27,7 +30,7 @@ layout: default
           {% for post in site.categories['build-manual'] %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             <li>
-              <span>{% increment '1' %}</span>
+              <span>{{ post.number }}</span>
               {% assign image = post.images[0] %}
             {% include image.html image=image %}
               <h2>
@@ -55,7 +58,7 @@ layout: default
               {% for post in site.categories['vanlife-manual'] %}
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                 <li>
-                  <span>{% increment bdoo | plus:1 %}</span>
+                  <span>{{ post.number }}</span>
                   {% assign image = post.images[0] %}
                   {% include image.html image=image %}
                   <h2>
@@ -68,5 +71,6 @@ layout: default
           <div class="clear"></div>
         </div>
       </div>
+    </div>
     </div>
 </div>

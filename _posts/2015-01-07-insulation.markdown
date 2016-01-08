@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Insulation"
+description: "Something something. so much stuff."
 categories: build-manual
 variable: build-manual
 number: 3

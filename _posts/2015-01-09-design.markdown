@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Design"
+description: "One of the most important steps of the van conversion process. Do it poorly—or not at all—and suffer big time when cold weather rolls in."
 categories: build-manual
 variable: build-manual
 number: 1
@@ -11,49 +12,109 @@ images:
  - background: /img/thumbnails/test-1.jpg
 
 materials:
- - name: Product One
+ - name: Foam Insulation
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
- - name: Product Two
+   img: /img/materials/foam-insulation.png
+ - name: Great Stuff
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
- - name: Product Three
+   img: /img/materials/great-stuff.png
+ - name: Reflectix
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
+   img: /img/materials/reflectix.png
+ - name: Spray Adhesive
+   url: http://homedepot.com
+   img: /img/materials/spray-adhesive.png
+ - name: Great Stuff
+   url: http://homedepot.com
+   img: /img/materials/great-stuff.png
+ - name: Reflectix
+   url: http://homedepot.com
+   img: /img/materials/reflectix.png
 
 
 tools:
- - name: Fuck
+ - name: Foam Insulation
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
- - name: You
+   img: /img/materials/foam-insulation.png
+ - name: Great Stuff
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
- - name: Stalin
+   img: /img/materials/great-stuff.png
+ - name: Reflectix
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
- - name: Hitler
+   img: /img/materials/reflectix.png
+ - name: Spray Adhesive
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
- - name: Product Two
+   img: /img/materials/spray-adhesive.png
+ - name: Great Stuff
    url: http://homedepot.com
-   img: /img/thumbnails/test.jpg
+   img: /img/materials/great-stuff.png
+ - name: Reflectix
+   url: http://homedepot.com
+   img: /img/materials/reflectix.png
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+#### <span class="number"><span>1</span></span> Cut reflectix to fit wall
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new posts, simply [add](http://example.net/) add a file in the posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+To add new posts, simply [add](http://example.net/) add a file in the posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<img src="../img/thumbnails/test.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<div class="dadtip">
+	<h6>Dad Knows Best</h6>
+	<p>To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+</div>
+
+<hr />
+
+#### <span class="number"><span>3</span></span> Cut and glue reflectix to cieling
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+<hr />
+
+#### <span class="number"><span>2</span></span> Glue reflectix to wall
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+<hr />
+
+#### <span class="number"><span>3</span></span> Cut and glue reflectix to cieling
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+<img src="../img/thumbnails/test.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>3</span></span> Cut and glue reflectix to cieling
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

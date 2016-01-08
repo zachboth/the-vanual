@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Choosing a Van"
+description: "Something something. so much stuff."
 categories: vanlife-manual
 number: 2
 images:
