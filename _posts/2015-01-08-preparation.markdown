@@ -1,31 +1,161 @@
 ---
 layout: post
 title:  "Preparation"
-description: "Something something. so much stuff."
+description: "If you bought a used van, most likely your ride is going to be dirty, rusty and rank smelling. Let's fix that."
 categories: build-manual
-variable: build-manual
+variable: Build Manual
 number: 2
-difficulty: 3
+difficulty: 1
 time: 2 days
 images:
  - url: /img/thumbnails/test.jpg
  - background: /img/thumbnails/test-1.jpg
+
+materials:
+ - name: Simple Green
+   url: http://homedepot.com
+   img: /img/materials/simple-green.png
+ - name: Shop Towel
+   url: http://homedepot.com
+   img: /img/materials/paper-towel.png
+ - name: Caulk
+   url: http://homedepot.com
+   img: /img/materials/caulk.png
+ - name: Painter's Tape
+   url: http://homedepot.com
+   img: /img/materials/painters-tape.png
+ - name: Rust Reformer
+   url: http://homedepot.com
+   img: /img/materials/rust-reformer.png
+ - name: Glossy Spray Paint
+   url: http://homedepot.com
+   img: /img/materials/spray-paint.png
+
+tools:
+ - name: Shop Vacuum
+   url: http://homedepot.com
+   img: /img/tools/shopvac.png
+ - name: Hand Broom
+   url: http://homedepot.com
+   img: /img/tools/hand-brush.png
+ - name: Angle Grinder
+   url: http://homedepot.com
+   img: /img/tools/angle-grinder.png
+ - name: Knotted Wire Wheel
+   url: http://homedepot.com
+   img: /img/tools/knotted-wire-wheel.png
+ - name: Wire Wheel
+   url: http://homedepot.com
+   img: /img/tools/wire-wheel.png
+ - name: Metal Grinding Disc
+   url: http://homedepot.com
+   img: /img/tools/metal-grinding-disc.png
+ - name: Protective Eyewear
+   url: http://homedepot.com
+   img: /img/tools/safety-goggles.png
+ - name: Respirator
+   url: http://homedepot.com
+   img: /img/tools/respirator.png
+ - name: Drive Socket Wrench Set
+   url: http://homedepot.com
+   img: /img/tools/drive-socket-wrench.png
+ - name: Small Wire Brush
+   url: http://homedepot.com
+   img: /img/tools/wire-brush.png
+ - name: Scrubbing Brush
+   url: http://homedepot.com
+   img: /img/tools/scrub.png
+ - name: Bucket
+   url: http://homedepot.com
+   img: /img/tools/bucket.png
+ - name: Putty Knife
+   url: http://homedepot.com
+   img: /img/tools/putty-knife.png
+ - name: Caulk Gun
+   url: http://homedepot.com
+   img: /img/tools/caulk-gun.png
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+#### <span class="number"><span>1</span></span> Remove pre-existing fixtures from the van
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+For the decade leading up to this point, my van was used by an electrician up in Vermont. This meant it had all the staples of a work cargo van. Metal tool shelves, a front cage and some gross floor mats.
 
-Jekyll also offers powerful support for code snippets:
+Remove the shelving and front cage. You won't need them anymore. Make a buck by selling them on Craigslist. Remove your front seats, runners and floor mats. Set them aside where they won't get ruined or stolen.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<img src="../img/post-images/preparation-shelf.jpg" /> 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>2</span></span> Do a quick preliminary cleaning
+
+If your van is more than a year old, it most likely has a layer of dirt, grime and dust build up on most of the floor. Use a shopvac and small hand broom to remove it. You may need to use a small scraper to loosen any bits that are proving difficult to remove.
+
+<img src="../img/post-images/preparation-vacuum2.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>3</span></span> Grind all surface rust off
+
+Using an angle grinder and wire brush attachment, grind off any and all surface rust from inside your van. Look for uneven surfaces on the metal to find rust that is concealed by your van's paint job.
+
+<img src="../img/post-images/preparation-grind.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>4</span></span> Clean entire van thoroughly
+
+Before you paint, make sure every surface is spotless. Broom and vacuum the dust. Then take soap and water to scrub everything clean. My shoes can get pretty dirty so I took the precaution of wearing disposable booties during the final steps of cleaning.
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+  	<img src="../img/post-images/preparation-sidedirty.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+  	<img src="../img/post-images/preparation-sideclean.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+<hr />
+
+#### <span class="number"><span>7</span></span> Spray anti-rust paint on any exposed metal
+
+First, tape anything you don't want painted white using painter's tape. This includes weather stripping, latches and door panels.
+
+There's multiple brands of this anti-rust paint. Some come in a spray can. The really heavy duty stuff comes in a two part mixture you brush on. Use the one of your choosing to paint over any exposed metal that you grinded.
+
+<img src="../img/post-images/preparation-painting2.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>8</span></span> Spray paint final coat of white paint
+
+Purchase a ton of glossy white spray paint made to paint metal. Spray evenly over the floor, walls and cieling. After completing, you should have a cargo van that looks like it came straight off the car dealership. 
+
+<img src="../img/post-images/preparation-painting.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>9</span></span> Reinstall front floor mat and front seats
+
+Clean both the front floor mat and seats before placing back in your van. Leave the floor mat for the cargo area outside as you'll be using this to make a floor template in later steps.
+
+<img src="../img/post-images/preparation-seat.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

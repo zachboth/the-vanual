@@ -2,12 +2,13 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home" data-viewport="0">
   <div class="left-side splitscreen">
     <div class="animate">
     <div class="wrapper">
-      <h1>The Vanual</h1>
-      <p>The complete guide to complete freedom.</p>
+      <span class="logo"></span>
+      <h4>The complete guide to complete freedom.</h4>
+      <a href="/about" id="home-video">Watch Video</a><a href="/about" id="home-learn">Learn More</a>
     </div>
   </div>
   </div>
@@ -25,10 +26,11 @@ layout: default
             <h6>Info</h6>
             <p>From beginning to end, this guide will walk you through the DIY process of building a sweet conversion campervan.</p>
           </div>
+          <div class="clear"></div>
         </div>
         <ul class="post-list">
           {% for post in site.categories['build-manual'] %}
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" data-target="{{ post.number }}">
             <li>
               <span>{{ post.number }}</span>
               {% assign image = post.images[0] %}
@@ -53,10 +55,11 @@ layout: default
             <h6>Info</h6>
             <p>From beginning to end, this guide will walk you through the DIY process of building a sweet conversion campervan.</p>
           </div>
+          <div class="clear"></div>
         </div>
           <ul class="post-list">
               {% for post in site.categories['vanlife-manual'] %}
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" data-target="{{ post.number }}">
                 <li>
                   <span>{{ post.number }}</span>
                   {% assign image = post.images[0] %}

@@ -1,0 +1,163 @@
+---
+layout: post
+title:  "Flooring"
+description: "Something something. so much stuff."
+categories: build-manual
+variable: build-manual
+number: 4
+difficulty: 2
+time: 2 days
+images:
+ - url: /img/thumbnails/test.jpg
+ - background: /img/thumbnails/test-1.jpg
+
+materials:
+ - name: 1/2" Birch Plywood
+   url: http://homedepot.com
+   img: /img/materials/half-ply.png
+ - name: Various Screws
+   url: http://homedepot.com
+   img: /img/materials/screw1.png
+ - name: Wood Filler
+   url: http://homedepot.com
+   img: /img/materials/durham.png
+ - name: Caulk
+   url: http://homedepot.com
+   img: /img/materials/caulk.png
+ - name: Single Sheet Vinyl
+   url: http://homedepot.com
+   img: /img/materials/vinyl-sheet.png
+ - name: Vinyl Glue
+   url: http://homedepot.com
+   img: /img/materials/dfs.png
+ - name: Red Rosin Paper
+   url: http://homedepot.com
+   img: /img/materials/red-rosin-paper.png
+ - name: Sandpaper Discs (Various Grits)
+   url: http://homedepot.com
+   img: /img/materials/sandpaper-disc.png
+
+
+tools:
+ - name: Circular Saw
+   url: http://homedepot.com
+   img: /img/tools/circular-saw.png
+ - name: Jig Saw
+   url: http://homedepot.com
+   img: /img/tools/jigsaw.png
+ - name: Power Drill
+   url: http://homedepot.com
+   img: /img/tools/drill.png
+ - name: Assorted Driving Bits
+   url: http://homedepot.com
+   img: /img/tools/driving-bit.png
+ - name: Assorted Drill Bits
+   url: http://homedepot.com
+   img: /img/tools/drill-bits.png
+ - name: Countersink Bit
+   url: http://homedepot.com
+   img: /img/tools/countersink.png
+ - name: Chalk Line
+   url: http://homedepot.com
+   img: /img/tools/chalk-line.png
+ - name: Tape Measure
+   url: http://homedepot.com
+   img: /img/tools/tape-measure.png
+ - name: Large Framing Square
+   url: http://homedepot.com
+   img: /img/tools/carpenter-square.png
+ - name: Random Orbit Sander
+   url: http://homedepot.com
+   img: /img/tools/power-sander.png
+ - name: V-notch Trowel
+   url: http://homedepot.com
+   img: /img/tools/trowel.png
+ - name: Caulk Gun
+   url: http://homedepot.com
+   img: /img/tools/caulk-gun.png
+ - name: Putty Knife
+   url: http://homedepot.com
+   img: /img/tools/putty-knife.png
+ - name: Protective Eyewear
+   url: http://homedepot.com
+   img: /img/tools/safety-goggles.png
+ - name: Angle Bar Straight Edge
+   url: http://homedepot.com
+   img: /img/tools/angled-bar-straight-edge.png
+ - name: Respirator
+   url: http://homedepot.com
+   img: /img/tools/respirator.png
+---
+#### <span class="number"><span>1</span></span> Use floor template to cut plywood subfloor
+
+If you still have a flawless floor template from insulating you can use that. Otherwise make a new one. Again the sheet of plywood will be smaller that the floor of your van. You'll have to create another mosaic layout with the plywood. Try to differ the seams of the wood subflooring to that of your rigid panel insulation. 
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/flooring-template.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/flooring-cut.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+
+<hr />
+
+#### <span class="number"><span>2</span></span> Attach subfloor with screws
+
+Once your subfloor is in place inside the van you'll need to secure it to the metal cargo van floor (through the layers of insulation below). I used a chalk line to mark where the cargo van's grooves are and then only drilled where the grooves were raised. Make sure to use anti-rust screws and countersink them into the wood.
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/flooring-secure.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/flooring-secure2.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+<hr />
+
+#### <span class="number"><span>3</span></span> Fill and sand screw holes
+
+Self explanatory. Fill with wood filler. Use only medium to fine sandpaper grit so you don't sand too much off your wood subfloor.
+
+<img src="../img/post-images/flooring-holes.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>4</span></span> Caulk seams and edge gaps
+
+You'll have seams in the mosaic layout of your subfloor. Caulk these flush with the wood. You can use caulk along the edges of the subflooring where the wood meets the wall of your van. Not necessary but a good precaution for moisture.
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+<hr />
+
+#### <span class="number"><span>5</span></span> PAUSE. Finish walls and cieling before laying down floor vinyl
+
+Waiting to install your vinyl floor will prevent it from being scratched or damaged while building the walls and ceiling. Putting up your walls beforehand will also shrink the flooring that you need to cover with vinyl meaning you'll be able to use six foot wide single sheet vinyl instead of the full 12 ft wide varity.
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

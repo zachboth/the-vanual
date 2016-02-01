@@ -16,10 +16,14 @@ $spacing-unit:     50px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #1C3DC9;
+$brand-color-dark:  darken($brand-color, 10%);
 
-$grey-color:       #828282;
+$grey-color:       #999;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$light-grey:       #999;
+$dark-grey:       #444;
 
 // Width of the content area
 $content-width:    800px;
@@ -42,13 +46,6 @@ $on-laptop:        800px;
     }
 }
 
-@font-face {
-	font-family: 'WorkSans';
-	src: url('/fonts/WorkSans-Regular.eot');
-	src: local('☺'), url('/fonts/WorkSans-Regular.woff') format('woff'), url('/fonts/WorkSans-Regular.ttf') format('truetype'), url('/fonts/WorkSans-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 @font-face {
 	font-family: 'Akkurat';
@@ -74,50 +71,11 @@ $on-laptop:        800px;
 	font-style: normal;
 }
 
-@font-face {
-	font-family: 'Apercu';
-	src: url('/fonts/apercu_regular_pro.eot');
-	src: local('☺'), url('/fonts/apercu_regular_pro.woff') format('woff'), url('/fonts/apercu_regular_pro.ttf') format('truetype'), url('/fonts/apercu_regular_pro.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 @font-face {
 	font-family: 'ProximaNova';
 	src: url('/fonts/ProximaNova-Regular.eot');
 	src: local('☺'), url('/fonts/ProximaNova-Regular.woff') format('woff'), url('/fonts/ProximaNova-Regular.ttf') format('truetype'), url('/fonts/ProximaNova-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'UniversStd';
-	src: url('/fonts/UniversLTStd.eot');
-	src: local('☺'), url('/fonts/UniversLTStd.woff') format('woff'), url('/fonts/UniversLTStd.ttf') format('truetype'), url('/fonts/UniversLTStd.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'UniversLT';
-	src: url('/fonts/UniversLTStd-Light.eot');
-	src: local('☺'), url('/fonts/UniversLTStd-Light.woff') format('woff'), url('/fonts/UniversLTStd-Light.ttf') format('truetype'), url('/fonts/UniversLTStd-Light.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'WorkSans';
-	src: url('/fonts/WorkSans-Regular.eot');
-	src: local('☺'), url('/fonts/WorkSans-Regular.woff') format('woff'), url('/fonts/WorkSans-Regular.ttf') format('truetype'), url('/fonts/WorkSans-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'WorkSans-Light';
-	src: url('/fonts/WorkSans-Light.eot');
-	src: local('☺'), url('/fonts/WorkSans-Light.woff') format('woff'), url('/fonts/WorkSans-Light.ttf') format('truetype'), url('/fonts/WorkSans-Light.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -133,7 +91,7 @@ h2, h3, h4, .post-link span {
 	font-family: 'Akkurat-Light'
 }
 
-h5, h6, p, a, .share-label, .views {
+h5, h6, p, a, .share-label, .views, article ul {
 	font-family: 'ProximaNova'
 }
 
@@ -144,8 +102,35 @@ h6, .share-label, .views {
 	font-weight: bold;
 }
 
+.post .right-side p, .post .right-side h3, article ul  {
+	color: $dark-grey;
+}
+
+.share-label, .views, .post .right-side h5, .post .right-side h6 {
+	color: $light-grey !important;
+}
+
+a:hover, a:visited, a:focus {
+	color: $brand-color;
+}
+
+hr {
+	width: 100%;
+    border-style: none;
+    height: 1px;
+    background: #eee;
+}
 
 
+.post .right-side ul {
+	    margin-top: -25px;
+    margin-left: 30px;
+
+}
+
+.slides {
+	margin: 0px !important;
+}
 
 .clear {
 	clear: both;
@@ -215,15 +200,30 @@ hr {
 	margin-bottom: 60px;
 }
 
+.home .page-heading {
+	font-family: "Akkurat";
+}
+
+.about .page-heading {
+	font-family: "Akkurat";
+}
+
 .manual-header {
 	background: $brand-color;
 	padding: 25px;
 	margin-bottom: 2px;
 	color: white;
 
+
 	.manual-title {
 	float: left;
-	margin-right: 40px;
+	width: calc(50% - 150px);
+	margin-right: 50px;
+	}
+
+	.manual-info {
+	float: left;
+	width: calc(50% + 100px)
 	}
 
 	p {
@@ -235,6 +235,22 @@ hr {
 h6 {
     margin-bottom: 5px;
 	}
+
+	.post-link {
+overflow: hidden;
+
+img {
+		-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+	}
+
+.post-link:hover img {
+	transform: scale(1.1);
+}
 
 .post-list {
 	margin-left: 0px;
@@ -257,9 +273,14 @@ h6 {
     color: white;
     opacity: 0.3;
     font-size: 120px;
-    margin-top: -25px;
+    margin-top: -18px;
     width: 100%;
     text-align: center;
+    z-index: 100;
+	}
+
+	h3 {
+	font-family: "Akkurat";
 	}
 
 	h2 {
@@ -269,14 +290,102 @@ h6 {
     text-align: center;
     width: 100%;
     margin-top: 45px;
+
 	}
+}
+
+.logo {
+	background-image: url(../img/icons/logo.svg);
+	width: 260px;
+	height: 75px;
+	background-size: 260px 75px;
+	 display: block;
+	 margin: auto;
+	 margin-bottom: 30px;
+}
+
+.home .left-side {
+
+.wrapper {
+	position: relative;
+	top: 40%;
+	transform: translateY(-40%);
+}
+
+.animate {
+	background-image: url("/img/backgrounds/index.jpg");
+  background-size: cover;
+  text-align: center;
+  background-position: center center;
+  }
+
+  h1 {
+  margin-top: 38%;
+  text-transform: uppercase;
+  font-family: "Akkurat-Bold";
+  letter-spacing: 18px;
+  font-size: 50px; 
+margin-bottom: 4px;
+  }
+
+  h4 {
+  font-size: 20px;
+  font-family: "Akkurat-Light";
+  margin-bottom: 180px;
+  opacity: 0.75;
+  }
+
+  a {
+  padding: 6px 20px;
+  border-radius: 30px;
+  background: $brand-color;
+  border: 1px solid $brand-color-dark;
+  display: inline-block;
+  }
+
+  #home-video {
+  margin-right: 25px;
+  }
+
+  #home-learn {
+  background: transparent;
+  border: 2px solid white;
+  padding: 4px 20px;
+  }
+
+    a:hover {
+  text-decoration: none;
+  background: white;
+  color: $brand-color;
+  border: 1px solid transparent;
+  }
+
+  #home-learn:hover {
+  background: white;
+  }
 }
 
 // POST STYLING
 .post .left-side {
+.slides:hover > li {
+  opacity: 0.5;
+}
+
+.slides > li:hover {
+  opacity: 1.0;
+}
+
+.slides > li {
+		-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
 	.flexslider {
 		    padding: 30px 70px 25px;
-		    margin: 10px 0 60px;
+		    margin: 10px 0 40px;
 	    background: rgba(0,0,0,0.3);
 	    border: 0px;
 
@@ -333,8 +442,8 @@ left: 50px;
 }
 
 .difficulty span {
-	width: 320px;
-    height: 24px;
+	width: 300px;
+    height: 23px;
     display: block;
     background-size: 100%;
     margin-top: 10px;
@@ -362,7 +471,6 @@ left: 50px;
 
 .time {
 	float: left;
-	margin-right: 100px;
 }
 
 .time h3 {
@@ -379,11 +487,28 @@ left: 50px;
 
 h6.disclaimer {
 	float: right;
-	opacity: 0.4;
+}
+
+.post .left-side h6 {
+	opacity: 0.5;
 }
 
  .next a.post-link {
     float: right;
+}
+
+.toc {
+	opacity: 0.5;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.toc:hover {
+	opacity: 1.0;
 }
 
 .toc span {
@@ -502,6 +627,17 @@ progress::-moz-progress-bar {
 
 // ARTICLE STYLING
 .post .right-side {
+article {
+
+p, img{
+	width: 100%;
+}
+
+}
+
+.article-footer {
+	margin: 70px 0px 55px 0px;
+}
 
 .share {
 	margin-top: -10px;
@@ -577,10 +713,6 @@ progress::-moz-progress-bar {
 }
 
 hr {
-	 width: 100%;
-    border-style: none;
-    height: 1px;
-    background: #ddd;
     margin: 30px auto 60px auto;
 }
 
@@ -589,7 +721,7 @@ h3, p, h5, h4, .dadtip {
 	display: inline-block;
 }
 
-img {
+article img {
 	margin: 0 0 -30px 0;
 }
 
@@ -648,7 +780,7 @@ h5 {
 
 h3 {
     font-size: 21px;
-    margin: 20px 0px 60px 0
+    margin: 30px 0px 60px 0;
 
 }
 
@@ -695,4 +827,62 @@ h4 {
 	}
 }
 
+}
+
+// Media Queries 
+
+@media (max-width: 900px) {
+.splitscreen {
+	width: 100%;
+}
+
+.left-side {
+	position: relative;
+}
+progress {
+	width: 100%;
+}
+
+.tools {
+	margin-bottom: 60px;
+}
+
+
+.home .left-side h1 {
+	margin-top: 0px;
+}
+
+.article-nav {
+	display: none;
+}
+
+}
+
+@media (max-width: 480px) {
+.post-list a {
+	width: 100%;
+}
+
+.manual-header .manual-info {
+	width: 50%;
+	float: right;
+}
+}
+
+@media (max-height: 790px) and (min-width: 900px) {
+.materials, .tools {
+	width: calc(50% - 10px);
+} 
+
+.materials {
+	float: left;
+}
+
+.tools {
+	float: right;
+}
+
+.disclaimer {
+	display: none;
+}
 }

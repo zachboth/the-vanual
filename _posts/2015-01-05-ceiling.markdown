@@ -1,0 +1,212 @@
+---
+layout: post
+title:  "Ceiling"
+description: "Something something. so much stuff."
+categories: build-manual
+variable: build-manual
+number: 5
+difficulty: 2
+time: 2 days
+images:
+ - url: /img/thumbnails/test.jpg
+ - background: /img/thumbnails/test-1.jpg
+
+materials:
+ - name: 1/4" Birch Plywood
+   url: http://homedepot.com
+   img: /img/materials/quarter-ply.png
+ - name: Lath (optional)
+   url: http://homedepot.com
+   img: /img/materials/lath.png
+ - name: Wood Stain
+   url: http://homedepot.com
+   img: /img/materials/stain.png
+ - name: Steel Rivets
+   url: http://homedepot.com
+   img: /img/materials/rivets.png
+ - name: Pin Nails (optional)
+   url: http://homedepot.com
+   img: /img/materials/pin-nails.png
+ - name: Caulk
+   url: http://homedepot.com
+   img: /img/materials/caulk.png
+ - name: Roof Fan
+   url: http://homedepot.com
+   img: /img/materials/fan.png
+ - name: Painter's Tape
+   url: http://homedepot.com
+   img: /img/materials/painters-tape.png
+
+
+tools:
+ - name: Sharpie
+   url: http://homedepot.com
+   img: /img/tools/sharpie.png
+ - name: Circular Saw
+   url: http://homedepot.com
+   img: /img/tools/circular-saw.png
+ - name: Rivet Pop Gun
+   url: http://homedepot.com
+   img: /img/tools/rivet-gun.png
+ - name: Large Framing Square
+   url: http://homedepot.com
+   img: /img/tools/carpenter-square.png
+ - name: Tape Measure
+   url: http://homedepot.com
+   img: /img/tools/tape-measure.png
+ - name: Pin Nailer (optional)
+   url: http://homedepot.com
+   img: /img/tools/pin-nailer.png
+ - name: Compressor
+   url: http://homedepot.com
+   img: /img/tools/compressor.png
+ - name: Jig Saw
+   url: http://homedepot.com
+   img: /img/tools/jigsaw.png
+ - name: Large File
+   url: http://homedepot.com
+   img: /img/tools/file.png
+ - name: Power Drill
+   url: http://homedepot.com
+   img: /img/tools/drill.png
+ - name: Assorted Driving Bits
+   url: http://homedepot.com
+   img: /img/tools/driving-bit.png
+ - name: Assorted Drill Bits
+   url: http://homedepot.com
+   img: /img/tools/drill-bits.png
+ - name: Caulk Gun
+   url: http://homedepot.com
+   img: /img/tools/caulk-gun.png
+ - name: Utility Knife
+   url: http://homedepot.com
+   img: /img/tools/utility-knife.png
+ - name: Brush
+   url: http://homedepot.com
+   img: /img/tools/paint-brush.png
+ - name: Protective Eyewear
+   url: http://homedepot.com
+   img: /img/tools/safety-goggles.png
+ - name: Angled Bar Straight Edge
+   url: http://homedepot.com
+   img: /img/tools/angled-bar-straight-edge.png
+ - name: Respirator
+   url: http://homedepot.com
+   img: /img/tools/respirator.png
+
+---
+#### <span class="number"><span>1</span></span> Collect and prepare paneling material (optional)
+
+Decorating your cieling is one of many things you can do to add some personal flair to your van. For me it was using old plaster lath I found on Craigslist from a historic Cleveland church built in 1886.
+
+Some other ideas could be the use of old burlap coffee bags, antiquated road signs, or a large hippie style tapestry. Endless options.
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/ceiling-collect.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/ceiling-sand.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+    <img src="../img/post-images/ceiling-stain.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+<hr />
+
+#### <span class="number"><span>2</span></span> Cut plywood ceiling
+
+Luckily the roof of my van was exactly four feet wide—the exact width of a standard sheet of  1/4" plywood. Be sure the seam between your plywood cieling is in the middle of where your van roof's support braces are. You will be securing the plywood to this in a later step.
+
+<img src="../img/thumbnails/test.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>3</span></span> Mark and stain plywood
+
+You'll want to take advantage of your cieling being on the ground by staining it before securing it to your cieling. 
+
+And since I was going to be spacing and securing my lath wood evenly across the entire ceiling, I decided it was best to mark this very specific spacing on the plywood at this time. To do this I created an Illustrator document the width of the plywood. Then I created rectangle shapes the width of individual lath pieces. Duplicate to the number of lath pieces you'll want width wise and then click the "horizontal distribute center" option in Illustrator. Print this document using a large format printer. You'll have a perfect template with exact spacing that you can use for your cieling and later on with other build elements.
+
+<img src="../img/post-images/ceiling-mark.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>4</span></span> Rivet plywood to ceiling
+
+With the help of some extra hands, hold your plywood in place on the cieling. Then rivet to your ceiling's braces making sure not to drill all the way through the cieling of your van.
+
+For me I made sure to only put rivets where they would be covered once I secured the lath to my ceiling in a later step.
+
+<img src="../img/post-images/ceiling-secure.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>5</span></span> Cut hole in roof for fan
+
+The point of no return. Cutting a large hole in your van's roof is by far the scariest day of the build. First, decide approximately where on the roof you want your fan. I wanted mine above my bed and behind where my roof rack and solar panels will end up being. 
+
+Then find the center of the van's roof by measuring between the roof's side rain gutters. From there you can measure everything else you need to draw a square and centered cut pattern on your roof. Once you're positive everything is right, take a drill and drill a hole in each corner. You'll use these holes as a starting point for your jigsaw. Make sure to use a blade length that punctures your van's metal roof, the insulation and plywood ceiling.
+
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/ceiling-hole.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/ceiling-hole2.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+    <img src="../img/post-images/ceiling-hole3.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
+
+<div class="dadtip">
+  <h6>Dad Knows Best</h6>
+  <p>You know the old saying "Measure twice. Cut once." Well, when it comes to cutting a hole in the roof of a van I prefer the saying "Measure fivteen times. Then measure one more time. Cut once."</p>
+</div>
+
+<hr />
+
+#### <span class="number"><span>6</span></span> Install fan
+
+If you cut the hole correctly your fan should slide right in. Put lots of caulk in between the roof of the van and the fan to make a proper, water-tight seal. Then put screws in the appropriate places to secure it to your roof.
+
+On the inside you'll have an edge cover that will need to be shortened height wise. Measure the correct height needed and then score the cover using a utility knife. You'll then be able to snap the extra plastic off. Screw into place.
+
+<hr />
+
+#### <span class="number"><span>7</span></span> Run wiring for fan
+
+Your fan will have a negative and positive wire for electricity. Slide those to your wall in between the insulation and plywood ceiling. Easiest way is using a coat hangar.
+
+Then run the wires (taping along the way) to where your main wires will run to your solar.
+
+<img src="../img/thumbnails/test.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+<hr />
+
+#### <span class="number"><span>8</span></span> Cover ceiling with paneling (optional)
+
+Using the markings on the plywood ceiling, I secured the pieces of lath to the ceiling with the use of a heavy duty glue and a pneumatic pin nailer. By staggering the lengths of the pieces of lath I was able to create seams that didn't look unnatural.
+
+<img src="../img/post-images/ceiling-lath.jpg" />
+
+##### Take a look at the source for this post to get an idea about how it works.
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
