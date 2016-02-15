@@ -6,8 +6,8 @@ categories: vanlife-manual
 variable: Vanlife Manual
 number: 1
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/for-you.jpg
+ - background: /img/thumbnails/for-you-bg.jpg
 ---
 
 #### Different experiences for different people

@@ -8,8 +8,8 @@ number: 3
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/insulation.jpg
+ - background: /img/thumbnails/insulation-bg.jpg
 
 materials:
  - name: Reflectix (Various Sizes)
@@ -58,7 +58,7 @@ tools:
 ---
 #### <span class="number"><span>1</span></span> Cut reflectix to fit wall
 
-Precut the reflectix to roughly the same size as the section of wall you’re covering. Then after applying duct tape to temporarily hold it up, run a sharpie along the edges and curves to get an accurate pattern of where to cut.
+Precut the reflectix insulation to roughly the same size as the section of wall you’re covering. Then after applying duct tape to temporarily hold it up to the wall, run a sharpie along the edges and curves to get an accurate pattern of where to cut off the excess insulation.
 
 <img src="../img/post-images/insulation-reflectix.jpg" /> 
 
@@ -87,7 +87,7 @@ This stuff is sticky, so try to line it up to exactly the right place before you
 
 #### <span class="number"><span>3</span></span> Cut and glue reflectix to ceiling
 
-No special templates for this. For my van, the roof width was exactly the same width as the roll of reflectix. Just had to measure length and cut. 
+No special templates for this. For my van, the roof width was exactly the same width as the large roll of reflectix. Just had to measure length and cut. 
 
 You can use the spray adhesive to attach reflectix to the ceiling, but I just used Tyvek tape around the edges. Holds up fine.
 
@@ -111,7 +111,7 @@ Measure and cut the rigid foam to fit into the cieling and the popout panels (if
 
 Couple tips for foaming. Do not use the “Big Gap Filler” unless you want foam bellowing out of the gaps 12 hours later. It just expands too much relative to what you spray. Makes it difficult to control. Instead, use the step down: “Gap and Crack Filler”. 
 
-Also, avoid foaming during cold weather (or at least use a heater for the entirety of foaming). It won’t setup properly and then 2 months later, when it gets warmer, you’ll find foam oozing out of your woodwork. 
+Also, avoid foaming during cold weather (or at least use a heater for the entirety of foaming). If it's too cold the foam won’t setup properly and then 2 months later, when it gets warmer, you’ll find foam oozing out of your woodwork. 
 
 Lastly, if you have REALLY big open gaps to fill, foam about a third or half of the depth and let it it dry. Once it dries, foam the rest. If you don’t do this, the weight of the foam will just push out onto your floor and cause a huge mess.
 
@@ -151,7 +151,7 @@ Additionally, if you take really good care of this template (making sure not to 
 
 #### <span class="number"><span>7</span></span> Attach reflectix and rigid paneling to floor
 
-Since your reflectix and rigid foam will likely be smaller than you’re template, you’ll have to figure out some sort of mosaic layout. Try to lay it out effeciently so you’re wasting the least amount of material.
+Since the indivdual pieces of reflectix and rigid foam material will likely be smaller than you’re full template, you’ll have to figure out some sort of mosaic layout. Try to lay it out effeciently so you’re wasting the least amount of excess material.
 
 Trace the template onto your mosaic of material and cut. Then use tyvek tape to tape the seams (tape the reflectix outside the van, tape the rigid foam once it’s all in place inside the van). Once inside the van, tape the edges of the insulation to the van so it doesn’t move.
 

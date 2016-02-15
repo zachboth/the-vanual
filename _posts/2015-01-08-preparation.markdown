@@ -8,7 +8,7 @@ number: 2
 difficulty: 1
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
+ - url: /img/thumbnails/prep.jpg
  - background: /img/thumbnails/test-1.jpg
 
 materials:
@@ -90,7 +90,7 @@ Remove the shelving and front cage. You won't need them anymore. Make a buck by 
 
 #### <span class="number"><span>2</span></span> Do a quick preliminary cleaning
 
-If your van is more than a year old, it most likely has a layer of dirt, grime and dust build up on most of the floor. Use a shopvac and small hand broom to remove it. You may need to use a small scraper to loosen any bits that are proving difficult to remove.
+If your van is more than a year old, it most likely has a layer of dirt, grime and dust build up on most of the floor. Use a shopvac and small hand broom to clean it. You may need to use a small scraper to loosen any areas of large dirt buildup that has accumulated.
 
 <img src="../img/post-images/preparation-vacuum2.jpg" /> 
 
@@ -100,7 +100,7 @@ If your van is more than a year old, it most likely has a layer of dirt, grime a
 
 #### <span class="number"><span>3</span></span> Grind all surface rust off
 
-Using an angle grinder and wire brush attachment, grind off any and all surface rust from inside your van. Look for uneven surfaces on the metal to find rust that is concealed by your van's paint job.
+Using an angle grinder and wire brush attachment, grind off any and all surface rust from inside your van. Look for subtle, uneven surfaces on the metal to find rust that is concealed by your van's paint job. For tight areas and corners, you will have to use a small wire brush to scrape the rust off.
 
 <img src="../img/post-images/preparation-grind.jpg" /> 
 
@@ -129,7 +129,7 @@ Before you paint, make sure every surface is spotless. Broom and vacuum the dust
 
 First, tape anything you don't want painted white using painter's tape. This includes weather stripping, latches and door panels.
 
-There's multiple brands of this anti-rust paint. Some come in a spray can. The really heavy duty stuff comes in a two part mixture you brush on. Use the one of your choosing to paint over any exposed metal that you grinded.
+There's multiple brands of this rust-conversion paint. Some come in a spray can. The really heavy duty stuff comes in a two part mixture you brush on. Use the one of your choosing to paint over any exposed metal that you grinded.
 
 <img src="../img/post-images/preparation-painting2.jpg" />
 
@@ -139,7 +139,7 @@ There's multiple brands of this anti-rust paint. Some come in a spray can. The r
 
 #### <span class="number"><span>8</span></span> Spray paint final coat of white paint
 
-Purchase a ton of glossy white spray paint made to paint metal. Spray evenly over the floor, walls and cieling. After completing, you should have a cargo van that looks like it came straight off the car dealership. 
+Purchase a ton of glossy white spray paint made to paint metal. Spray evenly over the floor, walls and cieling. After completing, you should have a cargo van that looks like it came straight off the car dealership lot. 
 
 <img src="../img/post-images/preparation-painting.jpg" />
 

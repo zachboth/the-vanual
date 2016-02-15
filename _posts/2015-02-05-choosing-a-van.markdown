@@ -6,8 +6,8 @@ categories: vanlife-manual
 variable: Vanlife Manual
 number: 2
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/tire.jpg
+ - background: /img/thumbnails/tire-bg.jpg
 ---
 #### Anything Volkswagen
 

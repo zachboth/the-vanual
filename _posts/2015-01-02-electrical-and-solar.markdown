@@ -8,49 +8,53 @@ number: 8
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
+ - url: /img/thumbnails/solar.jpg
  - background: /img/thumbnails/test-1.jpg
 
 materials:
- - name: Foam Insulation
+ - name: Roof Rack
    url: http://homedepot.com
-   img: /img/materials/foam-insulation.png
- - name: Great Stuff
+   img: /img/materials/roof-rack.png
+ - name: Solar Panels
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/solar-panel.png
+ - name: Caulk
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
- - name: Spray Adhesive
+   img: /img/materials/caulk.png
+ - name: Wiring
    url: http://homedepot.com
-   img: /img/materials/spray-adhesive.png
- - name: Great Stuff
+   img: /img/materials/wiring.png
+ - name: Dimmer
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/dimmer.png
+ - name: Electrical Tape
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
+   img: /img/materials/electrical-tape.png
+ - name: Heat Shrink
+   url: http://homedepot.com
+   img: /img/materials/heat-shrink.png
 
 
 tools:
- - name: Foam Insulation
+ - name: Power Drill
    url: http://homedepot.com
-   img: /img/materials/foam-insulation.png
- - name: Great Stuff
+   img: /img/tools/drill.png
+ - name: Assorted Drill Bits
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/tools/drill-bits.png
+ - name: Assorted Driving Bits
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
- - name: Spray Adhesive
+   img: /img/tools/driving-bit.png
+ - name: Caulk Gun
    url: http://homedepot.com
-   img: /img/materials/spray-adhesive.png
- - name: Great Stuff
+   img: /img/tools/caulk-gun.png
+ - name: Tape Measure
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/tools/tape-measure.png
+ - name: Drive Socket Wrench Set
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
+   img: /img/tools/drive-socket-wrench.png
+ 
 ---
 #### <span class="number"><span>1</span></span> Alter and install roof rack
 
@@ -106,7 +110,7 @@ Drill a hole below the roof's rain gutter. Run the solar panel wiring inside and
 
 While the lights are not up yet, you can still get the wiring in place. You'll need to drill holes in the back of you kitchen unit to where the dimmer is located.
 
-<img src="../img/post-images/solar-install.jpg" />
+<img src="../img/post-images/solar-dimmer.jpg" />
 
 ##### Take a look at the source for this post to get an idea about how it works.
 

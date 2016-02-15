@@ -8,49 +8,132 @@ number: 7
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/metal.jpg
+ - background: /img/thumbnails/metal-bg.jpg
 
 materials:
- - name: Foam Insulation
+ - name: 1/2" Birch Plywood
    url: http://homedepot.com
-   img: /img/materials/foam-insulation.png
- - name: Great Stuff
+   img: /img/materials/half-ply.png
+ - name: 1/4" Birch Plywood
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/quarter-ply.png
+ - name: 2" x 2" x 8' Lumber
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
- - name: Spray Adhesive
+   img: /img/materials/long-lumber.png
+ - name: Assorted Screws
    url: http://homedepot.com
-   img: /img/materials/spray-adhesive.png
- - name: Great Stuff
+   img: /img/materials/screw1.png
+ - name: Wood Filler
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/durham.png
+ - name: Wood Glue
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
+   img: /img/materials/wood-glue.png
+ - name: Cardboard
+   url: http://homedepot.com
+   img: /img/materials/cardboard.png
+ - name: Sand Paper Discs (Various Grit)
+   url: http://homedepot.com
+   img: /img/materials/sandpaper-disc.png
+ - name: Gas Spring Lifts
+   url: http://homedepot.com
+   img: /img/materials/gas-strut2.png
+ - name: Mounting Bracket
+   url: http://homedepot.com
+   img: /img/materials/strut-connector.png
+ - name: Barrel Bolt
+   url: http://homedepot.com
+   img: /img/materials/barrel-bolt.png
+ - name: Concealed Hinges
+   url: http://homedepot.com
+   img: /img/materials/concealed-hinge.png
+ - name: Rare Earth Magnet Disc
+   url: http://homedepot.com
+   img: /img/materials/magnet-disc.png
+ - name: Rare Earth Magnet Bar
+   url: http://homedepot.com
+   img: /img/materials/magnet-bar.png
+ - name: Felt
+   url: http://homedepot.com
+   img: /img/materials/felt.png
+ - name: Foam Block
+   url: http://homedepot.com
+   img: /img/materials/foam-block.png
+ - name: Upholstery Fabric
+   url: http://homedepot.com
+   img: /img/materials/fabric.png
+ - name: Futon
+   url: http://homedepot.com
+   img: /img/materials/futon.png
+ - name: Staples
+   url: http://homedepot.com
+   img: /img/materials/staples.png
+ - name: Brad Nails
+   url: http://homedepot.com
+   img: /img/materials/brad-nails.png
 
 
 tools:
- - name: Foam Insulation
+ - name: Circular Saw
    url: http://homedepot.com
-   img: /img/materials/foam-insulation.png
- - name: Great Stuff
+   img: /img/tools/circular-saw.png
+ - name: Jig Saw
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/tools/jigsaw.png
+ - name: Tape Measure
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
- - name: Spray Adhesive
+   img: /img/tools/tape-measure.png
+ - name: Large Framing Square
    url: http://homedepot.com
-   img: /img/materials/spray-adhesive.png
- - name: Great Stuff
+   img: /img/tools/carpenter-square.png
+ - name: Power Drill
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/tools/drill.png
+ - name: Assorted Driving Bits
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
+   img: /img/tools/driving-bit.png
+ - name: Assorted Drill Bits
+   url: http://homedepot.com
+   img: /img/tools/drill-bits.png
+ - name: Countersink Bit
+   url: http://homedepot.com
+   img: /img/tools/countersink.png
+ - name: Putty Knife
+   url: http://homedepot.com
+   img: /img/tools/putty-knife.png
+ - name: Random Orbital Sander
+   url: http://homedepot.com
+   img: /img/tools/power-sander.png
+ - name: Sand Paper (Various Grit)
+   url: http://homedepot.com
+   img: /img/materials/sand-paper.png
+ - name: Protective Eyewear
+   url: http://homedepot.com
+   img: /img/tools/safety-goggles.png
+ - name: Utility Knife
+   url: http://homedepot.com
+   img: /img/tools/utility-knife.png
+ - name: Cutting Pliers
+   url: http://homedepot.com
+   img: /img/tools/cutting-pliers.png
+ - name: Angled Bar Straight Edge
+   url: http://homedepot.com
+   img: /img/tools/angled-bar-straight-edge.png
+ - name: Respirator
+   url: http://homedepot.com
+   img: /img/tools/respirator.png
+ - name: 1/4" Chisel
+   url: http://homedepot.com
+   img: /img/tools/chisel.png
+ - name: Stapler
+   url: http://homedepot.com
+   img: /img/tools/stapler.png
+ - name: Brad Nailer
+   url: http://homedepot.com
+   img: /img/tools/brad-nailer.png
+
+
 ---
 #### <span class="number"><span>1</span></span> Measure and cut plywood for bed
 
@@ -86,19 +169,9 @@ Using the same technique as done with the walls, the bed was assembled by securi
 
 After figuring out the exact angle for a futon backrest, 100lb pneumatic struts were secured to the bed doors and to the wheel wells. Attach as high as possible on the wheel wells to maximize the space you can use when the doors are in the down position.
 
-<div class="flexslider article-slider">
-<ul class="slides">
-  <li>
-  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
-  </li>
-  <li>
-  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
-  </li>
-  <li>
-  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
-  </li>
-</ul>
-</div>
+<img src="../img/post-images/bk-strut.jpg" /> 
+
+##### Take a look at the source for this post to get an idea about how it works.
 
 <hr />
 
@@ -150,17 +223,7 @@ Cut the doors to size. For doors you want permenantly in place secure using heav
 
 <hr />
 
-#### <span class="number"><span>6</span></span> Build slide out drawer (optional)
-
-For the space below my fridge I wanted a large drawer for cooking and eating utensils. Its a simple open-faced box, but for the sliding mechanism I just used long strips of felt on the bottom to slide along the floor. It's kept in place when closed with more inset magnets.
-
-<img src="../img/thumbnails/test.jpg" />
-
-##### Take a look at the source for this post to get an idea about how it works.
-
-<hr />
-
-#### <span class="number"><span>7</span></span> Alter futon bed to fit
+#### <span class="number"><span>6</span></span> Alter futon bed to fit
 
 Originally I planned on getting a custom futon made to fit to size. However with a lack of time and funds, I went a more inexpensive route. Bought a used ikea futon on craigslist, opened the cover and snipped the springs to the length  that I needed. My mother then graciously sewed this up and made an additional cover over the mattress.
 
@@ -177,7 +240,7 @@ Originally I planned on getting a custom futon made to fit to size. However with
 
 <hr />
 
-#### <span class="number"><span>8</span></span> Make table
+#### <span class="number"><span>7</span></span> Make table
 
 To accomadate more people or more space when eating, cooking or working, a table was made that is essentially just a board that can rest between my kitchen unit and the opposite wall. It was custom cut to fit snug into the specific indentations of the wall. A small piece of lath was secured to the bottom to keep it from moving when in place.
 
@@ -189,7 +252,7 @@ When not in use this is stored behind the driver seat.
 
 <hr />
 
-#### <span class="number"><span>9</span></span> Build stool trash can
+#### <span class="number"><span>8</span></span> Build stool trash can
 
 Probably the most functional element of the entire van. It's simple wood box with a removable lid with a fabric wrapped cushion secured to the top. A slightly smaller open-faced was built to sit inside the larger box to accomodate a trash bag, essentially turning the inside of the stool into a trashcan!
 

@@ -8,8 +8,8 @@ number: 4
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/floor.jpg
+ - background: /img/thumbnails/floor-bg.jpg
 
 materials:
  - name: 1/2" Birch Plywood

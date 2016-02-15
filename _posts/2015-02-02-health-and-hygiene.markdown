@@ -6,8 +6,8 @@ categories: vanlife-manual
 variable: Vanlife Manual
 number: 5
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/shower.jpg
+ - background: /img/thumbnails/shower-bg.jpg
 ---
 #### General van tidiness
 

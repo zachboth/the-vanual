@@ -9,7 +9,7 @@ difficulty: 2
 time: 2 days
 images:
  - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - background: /img/thumbnails/ceiling-bg.jpg
 
 materials:
  - name: 1/4" Birch Plywood
@@ -182,7 +182,7 @@ Then find the center of the van's roof by measuring between the roof's side rain
 
 If you cut the hole correctly your fan should slide right in. Put lots of caulk in between the roof of the van and the fan to make a proper, water-tight seal. Then put screws in the appropriate places to secure it to your roof.
 
-On the inside you'll have an edge cover that will need to be shortened height wise. Measure the correct height needed and then score the cover using a utility knife. You'll then be able to snap the extra plastic off. Screw into place.
+For the inside you'll have an edge cover that will need to be shortened height wise. Measure the correct height needed and then score the cover using a utility knife. You'll then be able to snap the extra plastic off. Screw into place.
 
 <hr />
 

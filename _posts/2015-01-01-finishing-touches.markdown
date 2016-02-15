@@ -8,55 +8,122 @@ number: 9
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/finishing.jpg
+ - background: /img/thumbnails/finishing-bg.jpg
 
 materials:
- - name: Foam Insulation
+ - name: Painter's Tape
    url: http://homedepot.com
-   img: /img/materials/foam-insulation.png
- - name: Great Stuff
+   img: /img/materials/painters-tape.png
+ - name: Primer
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/primer.png
+ - name: Final Paint
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
- - name: Spray Adhesive
+   img: /img/materials/final-paint.png
+ - name: Wood Stain
    url: http://homedepot.com
-   img: /img/materials/spray-adhesive.png
- - name: Great Stuff
+   img: /img/materials/stain.png
+ - name: Chalkboard Spray Paint
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/chalkboard.png
+ - name: Plastic Sheeting
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
+   img: /img/materials/plastic-sheeting.png
+ - name: Duct Tape
+   url: http://homedepot.com
+   img: /img/materials/duct-tape.png
+ - name: Lath
+   url: http://homedepot.com
+   img: /img/materials/lath.png
+ - name: LED
+   url: http://homedepot.com
+   img: /img/materials/LED.png
+ - name: LED Extension
+   url: http://homedepot.com
+   img: /img/materials/LED-extension.png
+ - name: Caulk
+   url: http://homedepot.com
+   img: /img/materials/caulk.png
+ - name: Black Out Curtains
+   url: http://homedepot.com
+   img: /img/materials/blackout-curtains.png
+ - name: Rare Earth Magnet Disc
+   url: http://homedepot.com
+   img: /img/materials/magnet-disc.png
+ - name: Aluminum Rod
+   url: http://homedepot.com
+   img: /img/materials/aluminum-rod.png
+ - name: Snaps
+   url: http://homedepot.com
+   img: /img/materials/snap-fasteners.png
+ - name: 1/4" Plywood
+   url: http://homedepot.com
+   img: /img/materials/quarter-ply.png
+ - name: 1/2" Plywood
+   url: http://homedepot.com
+   img: /img/materials/half-ply.png
+ - name: Assorted Screws
+   url: http://homedepot.com
+   img: /img/materials/screw1.png
+ - name: Paper Towel Holder
+   url: http://homedepot.com
+   img: /img/materials/paper-towel-holder.png
+ - name: Red Rosin Paper
+   url: http://homedepot.com
+   img: /img/materials/red-rosin-paper.png
+ - name: Sandpaper Disc
+   url: http://homedepot.com
+   img: /img/materials/sandpaper-disc.png
+ - name: Mineral Spirits
+   url: http://homedepot.com
+   img: /img/materials/mineral-spirits.png
 
 
 tools:
- - name: Foam Insulation
+ - name: Brush
    url: http://homedepot.com
-   img: /img/materials/foam-insulation.png
- - name: Great Stuff
+   img: /img/tools/paint-brush.png
+ - name: Sandpaper
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/materials/sand-paper.png
+ - name: Random Orbital Sander
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
- - name: Spray Adhesive
+   img: /img/tools/power-sander.png
+ - name: Pin Nailer (Optional)
    url: http://homedepot.com
-   img: /img/materials/spray-adhesive.png
- - name: Great Stuff
+   img: /img/tools/pin-nailer.png
+ - name: Compressor
    url: http://homedepot.com
-   img: /img/materials/great-stuff.png
- - name: Reflectix
+   img: /img/tools/compressor.png
+ - name: Caulk Gun
    url: http://homedepot.com
-   img: /img/materials/reflectix.png
+   img: /img/tools/caulk-gun.png
+ - name: Power Drill
+   url: http://homedepot.com
+   img: /img/tools/drill.png
+ - name: Assorted Drill Bits
+   url: http://homedepot.com
+   img: /img/tools/drill-bits.png
+ - name: Countersink Bit
+   url: http://homedepot.com
+   img: /img/tools/countersink.png
+ - name: Scissors
+   url: http://homedepot.com
+   img: /img/tools/scissor.png
+ - name: Sewing Machine
+   url: http://homedepot.com
+   img: /img/tools/sewing-machines.png
+ - name: Sharpie
+   url: http://homedepot.com
+   img: /img/tools/sharpie.png
+
 ---
 #### <span class="number"><span>1</span></span> Tape for painting
 
 You'll be painting a lot so make sure to do a top notch job taping anything you don't want painted. I failed to do this and got paint on various things I did not want paint on. A touch up job was required.
 
-<img src="../img/thumbnails/test.jpg" /> 
+<img src="../img/post-images/finishing-tape.jpg" /> 
 
 ##### Take a look at the source for this post to get an idea about how it works.
 
@@ -70,11 +137,14 @@ The fronts of the cabinets were then stained the same color as the ceiling plywo
 
 <div class="flexslider article-slider">
 <ul class="slides">
+    <li>
+    <img src="../img/post-images/finishing-paint.jpg" /><h5>Something</h5>
+  </li>
   <li>
     <img src="../img/post-images/finishing-stain.jpg" /><h5>Something</h5>
   </li>
-   <li>
-    <img src="../img/post-images/bk-futon2.jpg" /><h5>Something</h5>
+    <li>
+    <img src="../img/post-images/finishing-chalkboard.jpg" /><h5>Something</h5>
   </li>
 </ul>
 </div>
@@ -120,7 +190,7 @@ My mother is an excellent seamstress and offered to help the cause by making my 
 
 <hr />
 
-#### <span class="number"><span>7</span></span> Sew and attach front divider curtain with pole
+#### <span class="number"><span>7</span></span> Sew and hang front divider curtain with pole
 
 Another curtain was made to to divide the front driving area and the rest of the van. The curtain is doublesided. The driver side has a blackout curtain while the living area has a white curtain. Additional templates were made to fit the odd shapes along the sides. The curtain is then fed through a pole that extends across the entire width of the van. And finally the curtain can be stretched taut with some snaps I installed.
 

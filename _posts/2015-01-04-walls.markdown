@@ -8,8 +8,8 @@ number: 6
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/shavings.jpg
+ - background: /img/thumbnails/shavings-bg.jpg
 
 materials:
  - name: 1/4" Birch Plywood
@@ -129,9 +129,16 @@ Cut 1" x 1" studs to size and screw just inside of where your plywood walls will
 
 The only place to secure the walls up top were to the latches for the pop out windows. With the use of cardboard spacers you'll be able to wall that is straight and perfectly perpendicular to the floor. Double check with a level.
 
-<img src="../img/post-images/wall-secure.jpg" /> 
-
-##### Take a look at the source for this post to get an idea about how it works.
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/wall-secure.jpg" /><h5>Something</h5>
+  </li>
+  <li>
+    <img src="../img/post-images/wall-secure2.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
 
 <hr />
 

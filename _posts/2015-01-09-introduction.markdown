@@ -6,8 +6,22 @@ categories: build-manual
 variable: Build Manual
 number: 1
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/intro.jpg
+ - background: /img/thumbnails/intro-bg.jpg
+
+tools:
+ - name: Brain
+   url: http://homedepot.com
+   img: /img/tools/brain.png
+ - name: Notebook
+   url: http://homedepot.com
+   img: /img/tools/notebook.png
+ - name: Cash
+   url: http://homedepot.com
+   img: /img/tools/cash.png
+ - name: Time
+   url: http://homedepot.com
+   img: /img/tools/time.png
 
 
 ---
@@ -97,7 +111,7 @@ Whether your style leans more rustic, more "hippie" or something else entirely, 
     <img src="../img/post-images/intro-design.jpg" /><h5>Something</h5>
   </li>
   <li>
-    <img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
+    <img src="../img/post-images/intro-design2.jpg" /><h5>Something</h5>
   </li>
 </ul>
 </div>

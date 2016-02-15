@@ -6,8 +6,8 @@ categories: vanlife-manual
 variable: Vanlife Manual
 number: 4
 images:
- - url: /img/thumbnails/test.jpg
- - background: /img/thumbnails/test-1.jpg
+ - url: /img/thumbnails/sleep.jpg
+ - background: /img/thumbnails/sleep-bg.jpg
 ---
 #### Stealth van life
 

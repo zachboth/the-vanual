@@ -271,8 +271,8 @@ img {
 	span {
 	position: absolute;
     color: white;
-    opacity: 0.3;
-    font-size: 120px;
+    opacity: 0.15;
+    font-size: 134px;
     margin-top: -18px;
     width: 100%;
     text-align: center;
@@ -745,7 +745,7 @@ flex-direction-nav {
 	    -webkit-box-shadow: none;
 	    border: solid 1px white;
 	    background: transparent;
-	    opacity: 0.3;
+	    opacity: 1;
 	  -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
@@ -764,6 +764,7 @@ flex-direction-nav {
 
 .flex-direction-nav a {
 top: 45%;	
+opacity: 1;
 }
 
 article hr {
