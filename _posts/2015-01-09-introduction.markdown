@@ -33,7 +33,7 @@ tools:
 
 #### <span class="number"><span>1</span></span> First things first
 
-Contrary to what is implied with the name of this site, the information provided here is less of a strict paint-by-number manual, and more of a general guide that you can stick to or deviate from as much as you want. 
+Contrary to what is implied with the name of this site, the information provided here is less of a strict paint-by-number manual, and more of a [something](http://zachboth.com) general guide that you can stick to or deviate from as much as you want. 
 
 Depending on your budget, vehicle, or just general requirements your experience may differ considerably from what is outlined in this guide. However, there are many tried and true practices most van conversions follow. My hope is you'll be able to use my journey as a resource throughout your van conversion adventure.
 

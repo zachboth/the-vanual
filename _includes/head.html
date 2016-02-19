@@ -6,6 +6,7 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
    <link rel="stylesheet" href="{{ "/css/flexslider.css" | prepend: site.baseurl }}">
+      <link rel="stylesheet" href="{{ "/css/jquery.fancybox.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
    <link rel="stylesheet" href="{{ "/css/animate.css" | prepend: site.baseurl }}">
@@ -14,8 +15,10 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 <script src="{{ "/js/jquery-2.1.4.min.js" | prepend: site.baseurl }}"></script>
-
+<script src="{{ "/js/masonry.pkgd.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/flexslider.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery.fancybox.pack.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery.fancybox-media.js" | prepend: site.baseurl }}"></script>
 
   <!-- Modernizr -->
   <script src="{{ "/js/modernizr.js" | prepend: site.baseurl }}"></script>

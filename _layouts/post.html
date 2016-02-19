@@ -10,14 +10,66 @@ layout: default
 }
       {% endfor %}
 </style>
+
 <div class="post m-scene" data-viewport="{{ page.number }}">
+  <div class="menu-slide">
+      <div class="wrapper">
+        <a href="/">
+          <span class="logo"></span>
+        </a>
+        <h6>Build Manual</h6>
+        <ul>
+              {% for post in site.categories['build-manual'] %}
+              <li>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" data-target="{{ post.number }}">
+                    {{ post.title }}
+                </a>
+                </li>
+              {% endfor %}
+          </ul>
+           <h6>Vanlife Manual</h6>
+        <ul>
+              {% for post in site.categories['vanlife-manual'] %}
+                <li>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" data-target="{{ post.number }}">
+                    {{ post.title }}
+                </a>
+                </li>
+              {% endfor %}
+          </ul>
+          <p><a href='./about'>About</a></p>
+          <p><a href='./about'>Contact</a></p>
+          <div class="social-follow">
+          <span class="instagram"><a href="http://instagram.com/zachboth"><i class="fa fa-instagram"></i></a></span><span class="facebook"><a href="http://instagram.com/zachboth"><i class="fa fa-facebook"></i></a></span><span class="twitter"><a href="http://instagram.com/zachboth"><i class="fa fa-twitter"></i></a></span>
+        </div>
+      </div>
+  </div>
  <div class="left-side splitscreen">
   <div class="animate">
+  <div class="toc" style="display: inline-block;">
     <div class="wrapper">
-      <p class="toc" style="display: inline-block;"></span><a href="/"><i class="fa fa-home"></i> </a> / {{page.variable}} </p>
+      <span>
+  <svg width="22px" height="13px" viewBox="0 0 22 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g fill="#fff">
+                    <path d="M0,5 L18,5 L18,7 L0,7 L0,5 L0,5 Z"></path>
+                    <path d="M0,10 L18,10 L18,12 L0,12 L0,10 L0,10 Z"></path>
+                    <path d="M0,0 L18,0 L18,2 L0,2 L0,0 L0,0 Z"></path>
+                </g>
+              </g>
+          </svg>MENU
+          </span>
+        </div></div>
+    <div class="wrapper">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
+{% if page.categories contains "vanlife-manual" %}
+<div class="videowrapper">
+<iframe src="https://player.vimeo.com/video/155612668" width="792" height="446" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+</div>
+{% endif %}
 {% if page.categories contains "build-manual" %}
 <div class="difficulty">
 <h6>Difficulty</h6>
@@ -205,6 +257,7 @@ layout: default
 </div>
 </div>
  <script>
+ setTimeout(function() {
 (function() {
   var winHeight = $(window).height(), 
       docHeight = $(document).height(),
@@ -220,6 +273,8 @@ layout: default
      progressBar.attr('value', value);
   });
 })();
+
+}, 1000);
 
 (function() {
  
@@ -279,5 +334,4 @@ layout: default
 
 </script>
 {% endif %}
-<script>
-</script>
+

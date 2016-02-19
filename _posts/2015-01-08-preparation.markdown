@@ -9,7 +9,7 @@ difficulty: 1
 time: 2 days
 images:
  - url: /img/thumbnails/prep.jpg
- - background: /img/thumbnails/test-1.jpg
+ - background: /img/thumbnails/prep-bg.jpg
 
 materials:
  - name: Simple Green
