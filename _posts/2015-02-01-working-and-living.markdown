@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Working and Living"
-description: "Something something. so much stuff."
-categories: vanlife-manual
+description: "An often overlooked element of the vanlife is how to work and live in a sustainable fashion. The details differ for everyone, but it's something to consider and plan for nonetheless."
+categories:
+ - vanlife-manual
+ - last
 variable: Vanlife Manual
 number: 6
 images:
@@ -15,21 +17,28 @@ Eventually you're going to need an income on the road. The way you go about doin
 
 I also know of carpenters, tailors, music teachers, mechanics and barbers who continuously travel to new places and will offer up their services to local shops for short-term work. A day. A week. Maybe even a month. 
 
-And finally there are those without specialized skills who can find work that doesn't require a robust portfolio or resume. These are often seasonal and short-term. This could include picking fruit on a farm, event staffing at music festivals or general odd jobs on Craigslist. There's something out there for you.
+And finally there are those without specialized skills who can find work that doesn't require a robust portfolio or resume. These are often seasonal and short-term. This could include picking fruit on a farm, event staffing at music festivals or general odd jobs son Craigslist. There's something out there for you.
 
-<img src="../img/thumbnails/test.jpg" /> 
-
-##### Take a look at the source for this post to get an idea about how it works.
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/wl-work.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/wl-work2.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
 
 <hr />
 
 #### Wifi, wifi, wifi
 
-Many people embrace the mobile lifestyle to reduce their dependency on technology and the internet. However, there are times where you'll want or need to use your computer and the internet. In many cases, answering email, doing online research and uploading work to our portfolios is a necessity to successfully living and working on the road. And of course, sometimes you just have to chill on Netflix or browse reddit. No problem with that either.
+Many people embrace the mobile lifestyle to reduce their dependency on technology and the internet. However, there are times where you'll want or need to use your computer and the web. In many cases, answering email, doing online research and uploading work to our portfolios is a necessity to successfully living and working on the road. And of course, sometimes you just have to chill on Netflix or browse reddit. No problem with that either.
 
 So how does one access the internet on the road? Well, even in the smallest of towns I've found places offering free internet. If you're willing to pay a little for a hot drink or a meal, find a coffee shop or diner that's okay with you pulling out your computer for a while. If you want to save you're money you can always take advantage of busy hotel lobbies or public libraries. Even some state and national parks are starting to offer free wifi in certain areas. If you don't have any luck with that, your last option is to drive around with your phone to search for the one unprotected wifi network in the area. Best of luck.
 
-<img src="../img/thumbnails/test.jpg" /> 
+<img src="../img/post-images/wl-wifi.jpg" /> 
 
 ##### Take a look at the source for this post to get an idea about how it works.
 
@@ -41,7 +50,7 @@ Occasionally, you'll need to list a home address on documents. This could be wor
 
 Keep in mind that the reason you list your address on certain things is because you'll be receiving mail at some point. If you're close enough you'll be able to occassionally come pick it up. For long-distance travellers, you'll need to coordinate the secondary sending of your mail to a PO box or another friend closer by.
 
-<img src="../img/thumbnails/test.jpg" /> 
+<img src="../img/post-images/wl-address.jpg" /> 
 
 ##### Take a look at the source for this post to get an idea about how it works.
 
@@ -49,9 +58,9 @@ Keep in mind that the reason you list your address on certain things is because 
 
 #### Finances and living expenses
 
-Unlike most people with full-time jobs, steady income and routine bills, a van dweller's income and spending is unpredictable to say the least. This is why you need to try and make it as predictable as possible so you know how much money you're spending and where you're spending it. Using the envelope method or a budgeting app like Mint for things like gas and food will determine how far you'll travel and how much you'll be cooking in your van during a given month. And without any sort of rent or mortgage, you'll be able to use this saving opportunity to your advantage. Pay off long standing bills. Save more. Use your money on new experiences.
+Unlike most people with full-time jobs, steady income and routine bills, a van dweller's income and spending can be unpredictable. This is why you need to try and make it as predictable as possible so you know how much money you're spending and where you're spending it. Using the envelope method or a budgeting app like Mint for things like gas and food will determine how far you'll travel and how much you'll be cooking in your van during a given month. And without any sort of rent or mortgage, you'll be able to use this saving opportunity to your advantage. Pay off long standing bills. Save more. Use your money on new experiences.
 
-Here's my personal financial case study. While living in Cambridge, MA (across the river from Boston) I was spending approximately $1350 a month. It breakdowns like so: $900 on rent and utilities, $150 on groceries, $150 on eating out and bars, $100 on entertainment, and $50 on transportation (subway and Uber). While living in a van, I approximately spend $570 a month (over half of what I was spending in Boston). This breaksdown like so: $240 on gas, $70 on car insurance, $160 on food, $50 on eating out and bars, and $50 on entertainment. If it's really a tight month, I can drive less, cut eating out, and find only free things to entertain myself. This could potentially bring my total costs per month down to around $250-$300. That's cheap living right there.
+Here's my personal financial case study. While living in Cambridge, MA (across the river from Boston) I was spending approximately $1450 a month. It breakdowns like so: $900 on rent and utilities, $300 on groceries, $150 on eating out and bars, $100 on entertainment, and $50 on transportation (subway and Uber). While living in a van, I approximately spend $660 a month (over half of what I was spending in Boston). This breaksdown like so: $240 on gas, $70 on car insurance, $250 on food, $50 on eating out and bars, and $50 on entertainment. If it's really a tight month, I can drive less, cut eating out, and find only free things to entertain myself. This could potentially bring my total costs per month down to around $250-$300. That's cheap living right there.
 
 <img src="../img/thumbnails/test.jpg" /> 
 

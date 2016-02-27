@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Walls"
-description: "Something something. so much stuff."
+description: "Various design and build challenges make shaping and securing the walls a true test of your carpentry skills."
 categories: build-manual
 variable: Build Manual
 number: 6
@@ -115,7 +115,7 @@ tools:
 ---
 #### <span class="number"><span>1</span></span> Cut plywood walls with use of templates
 
-Your walls are essentially just rectangles. However, you'll need to make some special cuts to go around the wheel wells and the curve of the back of your van. Make templates for these and subtract them from your long plywood walls.
+Your walls are essentially just rectangles. However, you'll need to make some special cuts to go around the wheel wells and the curve of the back of your van. Make templates for these and cut them from your long plywood walls.
 
 <img src="../img/post-images/wall-cut.jpg" /> 
 
@@ -125,9 +125,9 @@ Your walls are essentially just rectangles. However, you'll need to make some sp
 
 #### <span class="number"><span>2</span></span> Secure walls using braces
 
-Cut 1" x 1" studs to size and screw just inside of where your plywood walls will be. You'll use those studs (which are now secured to your van) to secure the walls in place.
+Cut 2" x 2" studs to size and secure them to the van just inside of where your plywood walls will be. You'll use those studs to secure the walls in place.
 
-The only place to secure the walls up top were to the latches for the pop out windows. With the use of cardboard spacers you'll be able to wall that is straight and perfectly perpendicular to the floor. Double check with a level.
+The only place to secure the walls up top were to the latches for the pop-out windows. With the use of cardboard spacers you'll be able to build a wall that is straight and perfectly perpendicular to the floor. Double check with a level before putting the final screws in.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -144,9 +144,11 @@ The only place to secure the walls up top were to the latches for the pop out wi
 
 #### <span class="number"><span>3</span></span> Cut and attach additional wall coverings
 
-While this is presented as only one step on here, this step is probably the most time consuming and advanced thing you'll do during the van conversion. Every surface along the wall not covered by wood will need a custom piece made for it. For my van this included the columns between the popup windows, the entire back arch (which I added a small shelving unit to) and the top section that runs the length of the van.
+While this is presented as only one step on here, this step is probably the most time consuming and advanced thing you'll do during the van conversion. Almost every surface along the wall not covered by wood will need a custom piece made for it. For my van this included the columns between the pop-out windows, the entire back arch (which I added a small shelving unit to) and the top section that runs the length of the van.
 
 You'll need exact measurements, precise templates and lots of patience. For pieces that need to curve with sections of your van I recommend soaking the plywood in a bathtub for five to ten minutes before securing and/or assembling. If you use clamps when assembling the wood will dry to the curvature you set.
+
+Fill and sand the sunken screw holes once everything is secure.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -179,15 +181,9 @@ You'll need exact measurements, precise templates and lots of patience. For piec
 
 <hr />
 
-#### <span class="number"><span>4</span></span> Fill and sand screw holes in plywood
+#### <span class="number"><span>4</span></span> Bondo over odd gaps
 
-You've done this before. Fill and sand. Fill and sand.
-
-<hr />
-
-#### <span class="number"><span>5</span></span> Bondo over odd gaps
-
-I had some unique spots that were too small and intricate to cover with wood. I used bondo to cover these and then hand sanded them to shape them into a desired form. I also did this on some seams where to pieces of wood met to create a seamless transition between the two.
+I had some unique spots that were too small and intricate to cover with wood. I used bondo to cover these and then hand sanded them to shape them into a desired form. I also did this on some seams where two pieces of wood met, to create a seamless transition between the two.
 
 You may have to apply bondo and sand in several stages to get a smooth surface.
 
@@ -210,9 +206,9 @@ You may have to apply bondo and sand in several stages to get a smooth surface.
 
 <hr />
 
-#### <span class="number"><span>6</span></span> Cut sheet metal to cover popout windows (if you have them)
+#### <span class="number"><span>5</span></span> Cut sheet metal to cover popout windows (if you have them)
 
-After buying a long sheet of steel, make paper templates to fit over the popout windows. Then use an angle grinder with a metal cut off wheel to cut the sheet metal into a more managable size. After tracing the templates onto the sheet metal, you can then take a metal snips and carefully cut out. Wear thick safety gloves as the metal edge will be sharp! To fix this take a rough grit sandpaper and sand the edges to dull them.  
+After buying a long sheet of steel, make paper templates to fit over the pop-out windows. Then use an angle grinder with a metal cut off wheel to cut the sheet metal into a more managable size. After tracing the templates onto the sheet metal, you can then take metal snips and carefully cut it out. Wear thick safety gloves as the metal edge will be extremely sharp! To fix this take a rough grit sandpaper and sand the edges to dull them.  
 
 <img src="../img/post-images/wall-metalcut.jpg" /> 
 
@@ -220,11 +216,9 @@ After buying a long sheet of steel, make paper templates to fit over the popout 
 
 <hr />
 
-#### <span class="number"><span>7</span></span> Rivet sheet metal to popout panels (if you have them)
+#### <span class="number"><span>6</span></span> Rivet sheet metal to popout panels (if you have them)
 
-Mark on the metal in even spacing where your rivets will go. i used a rough 2" spacing.
-
-Then just rivet it up there.
+Mark on the metal in even spacing where your rivets will go. I used a rough 2" spacing. Use a piece of tape around the border to get a consistent inset when riveting into the metal.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -239,7 +233,7 @@ Then just rivet it up there.
 
 <hr />
 
-#### <span class="number"><span>8</span></span> RESUME. Make new floor template and install vinyl floor 
+#### <span class="number"><span>7</span></span> RESUME. Make new floor template and install vinyl floor 
 
 Now that your wall and ceiling is finished, you can complete your floor by installing your single sheet vinyl floor. Make a final floor template. Trace and cut the vinyl. Place in the van and apply the special floor adhesive. Remember to apply one half first then the other and roll out to get any air bubbles to escape.
 
@@ -256,7 +250,7 @@ Now that your wall and ceiling is finished, you can complete your floor by insta
 
 <hr />
 
-#### <span class="number"><span>9</span></span> Build wheel well covers
+#### <span class="number"><span>8</span></span> Build wheel well covers
 
 These will be simple boxes to cover the wheel wells. You'll be securing parts of your bed to these so make you make them the height of your bed (without the mattress).
 

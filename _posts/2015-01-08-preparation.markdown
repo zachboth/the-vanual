@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preparation"
-description: "If you bought a used van, most likely your ride is going to be dirty, rusty and rank smelling. Let's fix that."
+description: "Before the build-out officially begins, we'll need to ensure your blank canvas is a clean canvas."
 categories: build-manual
 variable: Build Manual
 number: 2
@@ -78,9 +78,9 @@ tools:
 ---
 #### <span class="number"><span>1</span></span> Remove pre-existing fixtures from the van
 
-For the decade leading up to this point, my van was used by an electrician up in Vermont. This meant it had all the staples of a work cargo van. Metal tool shelves, a front cage and some gross floor mats.
+The first decade of my van's existence it was used by an electrician up in Vermont. This meant it had all the staples of a work cargo van: metal tool shelves, a front cage and a very dirty floor mats. To get a true blank slate, it's importnat to strip the van of all of these fixtures.
 
-Remove the shelving and front cage. You won't need them anymore. Make a buck by selling them on Craigslist. Remove your front seats, runners and floor mats. Set them aside where they won't get ruined or stolen.
+First, remove the shelving and front cage. You won't need them anymore. Make a buck by selling them on Craigslist. Remove your front seats, runners and floor mats. Set them aside where they won't get ruined or stolen.
 
 <img src="../img/post-images/preparation-shelf.jpg" /> 
 
@@ -90,7 +90,7 @@ Remove the shelving and front cage. You won't need them anymore. Make a buck by 
 
 #### <span class="number"><span>2</span></span> Do a quick preliminary cleaning
 
-If your van is more than a year old, it most likely has a layer of dirt, grime and dust build up on most of the floor. Use a shopvac and small hand broom to clean it. You may need to use a small scraper to loosen any areas of large dirt buildup that has accumulated.
+If your van is more than a year old, it most likely has a layer of dirt, grime and dust build up on the floor. Use a shopvac and small hand broom to clean it. You may need to use a small scraper to loosen any areas of large dirt buildup that has accumulated.
 
 <img src="../img/post-images/preparation-vacuum2.jpg" /> 
 
@@ -100,7 +100,7 @@ If your van is more than a year old, it most likely has a layer of dirt, grime a
 
 #### <span class="number"><span>3</span></span> Grind all surface rust off
 
-Using an angle grinder and wire brush attachment, grind off any and all surface rust from inside your van. Look for subtle, uneven surfaces on the metal to find rust that is concealed by your van's paint job. For tight areas and corners, you will have to use a small wire brush to scrape the rust off.
+Using an angle grinder and wire brush attachment, grind off all surface rust from inside your van. Look for subtle, uneven surfaces on the metal to find rust that is concealed by your van's paint job. For tight areas and corners, you will have to use a small wire brush to scrape the rust off.
 
 <img src="../img/post-images/preparation-grind.jpg" /> 
 
@@ -110,7 +110,7 @@ Using an angle grinder and wire brush attachment, grind off any and all surface 
 
 #### <span class="number"><span>4</span></span> Clean entire van thoroughly
 
-Before you paint, make sure every surface is spotless. Broom and vacuum the dust. Then take soap and water to scrub everything clean. My shoes can get pretty dirty so I took the precaution of wearing disposable booties during the final steps of cleaning.
+Before you paint, make sure every surface is spotless. Sweep and vacuum the dust. Then take soap and water to scrub everything clean. My shoes can get pretty dirty so I took the precaution of wearing disposable booties during cleaning and painting.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -129,7 +129,7 @@ Before you paint, make sure every surface is spotless. Broom and vacuum the dust
 
 First, tape anything you don't want painted white using painter's tape. This includes weather stripping, latches and door panels.
 
-There's multiple brands of this rust-conversion paint. Some come in a spray can. The really heavy duty stuff comes in a two part mixture you brush on. Use the one of your choosing to paint over any exposed metal that you grinded.
+There's multiple brands of rust-conversion paint. Some comes in a spray can. The really heavy duty stuff comes in a two part mixture you brush on. Use the one of your choosing to paint over any exposed metal that you grinded.
 
 <img src="../img/post-images/preparation-painting2.jpg" />
 
@@ -139,7 +139,7 @@ There's multiple brands of this rust-conversion paint. Some come in a spray can.
 
 #### <span class="number"><span>8</span></span> Spray paint final coat of white paint
 
-Purchase a ton of glossy white spray paint made to paint metal. Spray evenly over the floor, walls and cieling. After completing, you should have a cargo van that looks like it came straight off the car dealership lot. 
+Purchase several cans of glossy white spray paint. Be sure it is made to paint metal. Spray evenly over the floor, walls and cieling. After completing, you should have a cargo van that looks like it came straight off the dealership lot. 
 
 <img src="../img/post-images/preparation-painting.jpg" />
 
@@ -149,7 +149,7 @@ Purchase a ton of glossy white spray paint made to paint metal. Spray evenly ove
 
 #### <span class="number"><span>9</span></span> Reinstall front floor mat and front seats
 
-Clean both the front floor mat and seats before placing back in your van. Leave the floor mat for the cargo area outside as you'll be using this to make a floor template in later steps.
+Clean both the front floor mat and seats before placing back in your van. Leave the floor mat for the cargo area outside as you'll be using this to make a floor template in the next chapter.
 
 <img src="../img/post-images/preparation-seat.jpg" />
 

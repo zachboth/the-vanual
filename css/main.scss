@@ -448,7 +448,17 @@ overflow: hidden;
   background: $brand-color;
   border: 1px solid $brand-color-dark;
   display: inline-block;
+  -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
   }
+}
+
+button.homefirstbutton {
+	margin-right: 20px;
+	padding: 9px 20px;
 }
 
 .animate {
@@ -567,9 +577,9 @@ margin-bottom: 4px;
 {
     max-width: 60em; /* 960 px */
     margin: 0 auto;
-    width: 100%;
+    width: auto;
 	height: 100%;
-	padding: 40px 100px;
+	padding: 40px 50px;
 }
 
 .masonry {
@@ -586,6 +596,7 @@ margin-bottom: 4px;
         margin-left: -1.562%; /* 15px */
         margin-bottom: -1.875em; /* 30px */
         list-style: none;
+            padding-bottom: 70px;
     }
         .item
         {
@@ -597,7 +608,7 @@ margin-bottom: 4px;
         #close-gallery {
         position: fixed;
         top: 35px;
-        right: 90px;
+        right: 6%;
         }
 
 @media only screen and ( max-width: 40em ) /* 640px */
@@ -605,7 +616,7 @@ margin-bottom: 4px;
     .item
     {
         width: 46.876%; /* 305px */
-        margin-bottom: 0.938em; /* 15px */
+        margin-bottom: 0.4em; /* 15px */
     }
 }
 @media only screen and ( max-width: 20em ) /* 640px */
@@ -621,24 +632,6 @@ margin-bottom: 4px;
             margin-left: 0;
             margin-right: 0;
         }
-}
-.gallery-active {
-
-.left-side {
-	left: -47%;
-	position: fixed;
-}
-
-.right-side {
-	right: -47%;
-	position: fixed;
-}	
-
-.masonry {
-	position: absolute;
-	overflow: auto;
-}
-
 }
 
 // POST STYLING
@@ -1337,7 +1330,64 @@ li {
 
 // Media Queries 
 
+@media (min-width: 901px) {
+
+.gallery-active {
+
+.left-side {
+	left: -47%;
+	position: fixed;
+}
+
+.right-side {
+	right: -47%;
+	position: fixed;
+}	
+
+.masonry {
+	position: absolute;
+	overflow: auto;
+}
+
+}
+
+}
+
 @media (max-width: 900px) {
+
+.gallery-active {
+
+.left-side {
+	top: -99%;
+	position: fixed;
+	height: 100%;
+		  -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.right-side {
+	bottom: -99%;
+	position: fixed;
+	height: 100%;
+		  -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}	
+
+.masonry {
+	position: absolute;
+	overflow: auto;
+	margin-bottom: 50px;
+}
+
+}
+
+
 .splitscreen {
 	width: 100%;
 }
@@ -1351,6 +1401,17 @@ progress {
 
 .tools {
 	margin-bottom: 60px;
+}
+
+.home .left-side .wrapper {
+	transform: translateY(0%);
+     -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+        padding-top: 100px;
+    padding-bottom: 140px;
+        top: 0%;
 }
 
 

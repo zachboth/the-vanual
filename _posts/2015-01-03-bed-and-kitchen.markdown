@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bed and Kitchen"
-description: "Something something. so much stuff. bkjsdqsdkw dwdbekdb  dwebdejkw xjkqsnz nd e"
+description: "The value of a well-designed kitchen and bed shouldn't be underestimated. It's an opportunity to maximize your space's function and improve the ease of your daily routine once on the road."
 categories: build-manual
 variable: Build Manual
 number: 7
@@ -137,7 +137,7 @@ tools:
 ---
 #### <span class="number"><span>1</span></span> Measure and cut plywood for bed
 
-A bit tricky as your walls may have a slight curve to them. Since the lifting bed doors need to be square the sides will need to be adjusted to take into account this curve. Include a middle strut that will be used to attach your bed doors to.
+This is a bit tricky as your walls may have a slight curve to them. Since the lifting bed doors need to be square the sides will need to be adjusted to take into account this curve. Include a piece of wood in the middle that will be used to attach your the hinges of the bed doors to.
 
 <img src="../img/thumbnails/test.jpg" /> 
 
@@ -147,7 +147,7 @@ A bit tricky as your walls may have a slight curve to them. Since the lifting be
 
 #### <span class="number"><span>2</span></span> Build bed using braces
 
-Using the same technique as done with the walls, the bed was assembled by securing them with braces and attaching them to the wheel well boxes. A middle column was constructed to support the middle strut of the bed.
+Using the same technique as done with the walls, the bed should be assembled by securing them with braces and attaching them to the wheel well boxes. A center column should be built to support the middle piece of wood.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -165,9 +165,12 @@ Using the same technique as done with the walls, the bed was assembled by securi
 
 <hr />
 
-#### <span class="number"><span>3</span></span> Attach bed hinges and install pneumatic lift and locks
+#### <span class="number"><span>3</span></span> Attach bed hinges, install pneumatic lift and locks
 
-After figuring out the exact angle for a futon backrest, 100lb pneumatic struts were secured to the bed doors and to the wheel wells. Attach as high as possible on the wheel wells to maximize the space you can use when the doors are in the down position.
+Attach the long piano hinges to both the middle of the bed and the bed doors. Take note that you will have to do remove the hinges during painting to make painting the doors easier.
+
+After figuring out the exact angle for the backrest of the ruton, 100lb pneumatic struts were secured to the bed doors and to the wheel wells. Attach as high as possible on the wheel wells to maximize the space you can use when the doors are in the down position.
+
 
 <img src="../img/post-images/bk-strut.jpg" /> 
 
@@ -177,9 +180,9 @@ After figuring out the exact angle for a futon backrest, 100lb pneumatic struts 
 
 #### <span class="number"><span>4</span></span> Build kitchen walls and shelves using a mix of braces and struts
 
-Lots of measuring. A good amount of cutting. The main thing to remember is to start with the kitchen walls square. If they're not you'll need to trace your shelves over the area they are being secured to to ensure they fit properly. 
+Lots of measuring. A good amount of cutting. The main thing to remember is to be abslutely confident the kitchen walls are level and square. If they're slightly off, you can trace your shelves over the area they are being secured to to ensure they fit properly. 
 
-To secure the walls to the van use chopped off screws and drilled holes in the floor to keep the walls in place. Then build braces to support the shelves. 
+To secure the kitchen walls to the van use chopped off screws in the kitchen walls and while in their proper place, lightly hit with a mallot. You'll be left with indents in the floor that you can then drill into. The chopped off screws in your kitchen walls will slide right in. Use braces as you have done before to support the shelves. 
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -225,7 +228,7 @@ Cut the doors to size. For doors you want permenantly in place secure using heav
 
 #### <span class="number"><span>6</span></span> Alter futon bed to fit
 
-Originally I planned on getting a custom futon made to fit to size. However with a lack of time and funds, I went a more inexpensive route. Bought a used ikea futon on craigslist, opened the cover and snipped the springs to the length  that I needed. My mother then graciously sewed this up and made an additional cover over the mattress.
+Originally I planned on getting a custom futon made to fit to size. However with a lack of time and funds, I went a more inexpensive route. Bought a used ikea futon on craigslist, opened the cover and snipped the springs to the length that I needed. My mother then graciously sewed this up and made an additional cover over the mattress.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -234,6 +237,9 @@ Originally I planned on getting a custom futon made to fit to size. However with
   </li>
    <li>
     <img src="../img/post-images/bk-futon2.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/bk-futon3.jpg" /><h5>Something</h5>
   </li>
 </ul>
 </div>
@@ -246,17 +252,34 @@ To accomadate more people or more space when eating, cooking or working, a table
 
 When not in use this is stored behind the driver seat.
 
-<img src="../img/post-images/bk-table.jpg" />
 
-##### Take a look at the source for this post to get an idea about how it works.
+<div class="flexslider article-slider">
+<ul class="slides">
+  <li>
+    <img src="../img/post-images/bk-table.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/bk-table2.jpg" /><h5>Something</h5>
+  </li>
+   <li>
+    <img src="../img/post-images/bk-table3.jpg" /><h5>Something</h5>
+  </li>
+     <li>
+    <img src="../img/post-images/bk-table4.jpg" /><h5>Something</h5>
+  </li>
+     <li>
+    <img src="../img/post-images/bk-table5.jpg" /><h5>Something</h5>
+  </li>
+</ul>
+</div>
 
 <hr />
 
 #### <span class="number"><span>8</span></span> Build stool trash can
 
-Probably the most functional element of the entire van. It's simple wood box with a removable lid with a fabric wrapped cushion secured to the top. A slightly smaller open-faced was built to sit inside the larger box to accomodate a trash bag, essentially turning the inside of the stool into a trashcan!
+Probably the most functional element of the entire van. It's a simple wood box with a removable lid with a fabric wrapped cushion secured to the top. A slightly smaller open-faced box was built to sit inside the larger box to accomodate a trash bag, essentially turning the inside of the stool into a trashcan!
 
-Felt was attached to the bottom so the stool can be moved about without scratching the floor.
+Felt was attached to the bottom so the stool so it can be moved without scratching the vinyl floor.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -266,10 +289,11 @@ Felt was attached to the bottom so the stool can be moved about without scratchi
    <li>
     <img src="../img/post-images/bk-stool2.jpg" /><h5>Something</h5>
   </li>
+     <li>
+    <img src="../img/post-images/bk-stool3.jpg" /><h5>Something</h5>
+  </li>
+       <li>
+    <img src="../img/post-images/bk-stool4.jpg" /><h5>Something</h5>
+  </li>
 </ul>
 </div>
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-

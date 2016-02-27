@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Insulation"
-description: "One of the most important steps in the van conversion process. Do it wrong or not at all and you’ll regret it when winter rolls in. Big time."
+description: "One of the most crucial steps in the van conversion process. Do it wrong or not at all and you’ll regret it when winter rolls in."
 categories: build-manual
 variable: Build Manual
 number: 3
@@ -58,7 +58,7 @@ tools:
 ---
 #### <span class="number"><span>1</span></span> Cut reflectix to fit wall
 
-Precut the reflectix insulation to roughly the same size as the section of wall you’re covering. Then after applying duct tape to temporarily hold it up to the wall, run a sharpie along the edges and curves to get an accurate pattern of where to cut off the excess insulation.
+Precut the reflectix insulation to roughly the same size as the section of wall you’re covering. Then after applying duct tape to temporarily hold it up to the wall, run a sharpie along the edges and curves to get an accurate pattern of where to cut off the excess.
 
 <img src="../img/post-images/insulation-reflectix.jpg" /> 
 
@@ -99,7 +99,7 @@ You can use the spray adhesive to attach reflectix to the ceiling, but I just us
 
 #### <span class="number"><span>4</span></span> Cut rigid foam paneling to cover upper panels and ceiling
 
-Measure and cut the rigid foam to fit into the cieling and the popout panels (if you have them). These should go over the reflectix. If you cut the foam just ever so slightly larger than it needs to be, you can squeeze the paneling into it’s spot and it’ll stay without any assistance. Probably still good to tape the edges with Tyvek for added precaution.
+Measure and cut the rigid foam to fit into the cieling and the pop-out windows (if you have them). These should go over the reflectix. If you cut the foam ever so slightly larger than it needs to be, you can squeeze the paneling into it’s spot and it’ll stay without any assistance. Probably still good to tape the edges with Tyvek for added precaution.
 
 <img src="../img/post-images/insulation-panel.jpg" /> 
 
@@ -113,7 +113,7 @@ Couple tips for foaming. Do not use the “Big Gap Filler” unless you want foa
 
 Also, avoid foaming during cold weather (or at least use a heater for the entirety of foaming). If it's too cold the foam won’t setup properly and then 2 months later, when it gets warmer, you’ll find foam oozing out of your woodwork. 
 
-Lastly, if you have REALLY big open gaps to fill, foam about a third or half of the depth and let it it dry. Once it dries, foam the rest. If you don’t do this, the weight of the foam will just push out onto your floor and cause a huge mess.
+Lastly, if you have REALLY big open gaps to fill, foam about a third or half of the depth and let it it dry. Once it dries, foam the rest. If you don’t do this, the weight of the foam will just push out onto your floor and cause a huge mess and major headache.
 
 After it’s fully setup and dry, trim excess foam.
 
@@ -132,7 +132,7 @@ After it’s fully setup and dry, trim excess foam.
 
 #### <span class="number"><span>6</span></span> Make paper template for floor to cut reflectix and rigid  paneling
 
-Using the paper scrap method, make a template of your floor with a roll of rose paper. If you are extremely detailed with this template, it will save a lot of time and headache later on. 
+Using the paper scrap method, make a template of your floor with a roll of rose paper. Try to be as detailed and accurate as you can. 
 
 Additionally, if you take really good care of this template (making sure not to wrinkle, tear or otherwise damage it), you’ll be able to use this template for the insulation AND subflooring. Two birds with one stone. 
 
@@ -151,9 +151,9 @@ Additionally, if you take really good care of this template (making sure not to 
 
 #### <span class="number"><span>7</span></span> Attach reflectix and rigid paneling to floor
 
-Since the indivdual pieces of reflectix and rigid foam material will likely be smaller than you’re full template, you’ll have to figure out some sort of mosaic layout. Try to lay it out effeciently so you’re wasting the least amount of excess material.
+Since the indivdual pieces of reflectix and rigid foam material will likely be smaller than you’re full template, you’ll have to design a mosaic layout. Try to lay it out effeciently so you’re creating the least amount of excess material.
 
-Trace the template onto your mosaic of material and cut. Then use tyvek tape to tape the seams (tape the reflectix outside the van, tape the rigid foam once it’s all in place inside the van). Once inside the van, tape the edges of the insulation to the van so it doesn’t move.
+Trace the template onto your mosaic of material and cut. Move the material inside the van and use tyvek tape to tape the seams of the mosaic layout. Tape the edges of the insulation to the van so it doesn’t move.
 
 <img src="../img/post-images/insulation-rigid.jpg" />
 
@@ -163,17 +163,12 @@ Trace the template onto your mosaic of material and cut. Then use tyvek tape to 
 
 #### <span class="number"><span>8</span></span> Cut, stuff and attach fiberglass insulation to walls
 
-Last bit of insulation is the fiberglass insulation for the bottom-half of your walls (or your full wall if your van doesn’t have windows or pop-out panels). Do the same thing you did with the wall reflectix and cut to roughly the same size then trim to fit curves and odd shapes.
+Last bit of insulation to complete is the fiberglass insulation for the bottom-half of your walls (or your full wall if your van doesn’t have windows). Cut the fiberglass insulation to roughly the same size as the space you are covering. Then trim to fit curves and odd shapes.
 
-Put the fiberglass insulation into thick garbage bags and Tyvek tape any openings or tears to form a moisture-proof barrier. Some modification of the garbage bags will be necessary. 
+Put the fiberglass insulation into thick garbage bags and Tyvek tape any openings or tears to form a moisture-proof barrier. Some modification of the garbage bags will be necessary. Be careful not to puncture unwanted holes in the garbage bags.
 
-Lastly, tape the insulated garbage bags to the walls in their appropriate places.
+Lastly, use Tyvek tape to attach the insulated garbage bags to the walls in their appropriate places.
 
 <img src="../img/post-images/insulation-fiberglass.jpg" />
 
 ##### Take a look at the source for this post to get an idea about how it works.
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

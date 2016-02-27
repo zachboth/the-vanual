@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Ceiling"
-description: "Something something. so much stuff."
+description: "Just like a roof on a house, the ceiling and fan is an important aspect of the campervan to get right."
 categories: build-manual
 variable: build-manual
 number: 5
 difficulty: 2
 time: 2 days
 images:
- - url: /img/thumbnails/test.jpg
+ - url: /img/thumbnails/ceiling.jpg
  - background: /img/thumbnails/ceiling-bg.jpg
 
 materials:
@@ -99,7 +99,7 @@ tools:
 
 Decorating your cieling is one of many things you can do to add some personal flair to your van. For me it was using old plaster lath I found on Craigslist from a historic Cleveland church built in 1886.
 
-Some other ideas could be the use of old burlap coffee bags, antiquated road signs, or a large hippie style tapestry. Endless options.
+Some other ideas could be the use of old burlap coffee bags, antiquated road signs, or a large hippie style tapestry. Completely up to you.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -117,21 +117,11 @@ Some other ideas could be the use of old burlap coffee bags, antiquated road sig
 
 <hr />
 
-#### <span class="number"><span>2</span></span> Cut plywood ceiling
+#### <span class="number"><span>2</span></span> Cut, mark and stain plywood
 
-Luckily the roof of my van was exactly four feet wide—the exact width of a standard sheet of  1/4" plywood. Be sure the seam between your plywood cieling is in the middle of where your van roof's support braces are. You will be securing the plywood to this in a later step.
+Luckily the roof of my van was exactly four feet wide—the exact width of a standard sheet of  1/4" plywood. The length of the van however is too long for a single sheet of plywood. Two sheets will be required. Make sure the seam between your two pieces of plywood line up with the roof's support braces (or ribs). You will be securing the plywood to this in a later step.
 
-<img src="../img/thumbnails/test.jpg" /> 
-
-##### Take a look at the source for this post to get an idea about how it works.
-
-<hr />
-
-#### <span class="number"><span>3</span></span> Mark and stain plywood
-
-You'll want to take advantage of your cieling being on the ground by staining it before securing it to your cieling. 
-
-And since I was going to be spacing and securing my lath wood evenly across the entire ceiling, I decided it was best to mark this very specific spacing on the plywood at this time. To do this I created an Illustrator document the width of the plywood. Then I created rectangle shapes the width of individual lath pieces. Duplicate to the number of lath pieces you'll want width wise and then click the "horizontal distribute center" option in Illustrator. Print this document using a large format printer. You'll have a perfect template with exact spacing that you can use for your cieling and later on with other build elements.
+Since I was going to be spacing and securing my lath wood evenly across the entire ceiling, I decided it was best to mark the very specific spacing on the plywood at this time. Using a large format plotter, I printed a special template made in Adobe Illustrator that showed the exact spacing of the lath. This template was used for the cieling and later on with the kitchen.
 
 <img src="../img/post-images/ceiling-mark.jpg" /> 
 
@@ -139,11 +129,11 @@ And since I was going to be spacing and securing my lath wood evenly across the 
 
 <hr />
 
-#### <span class="number"><span>4</span></span> Rivet plywood to ceiling
+#### <span class="number"><span>3</span></span> Rivet plywood to ceiling
 
-With the help of some extra hands, hold your plywood in place on the cieling. Then rivet to your ceiling's braces making sure not to drill all the way through the cieling of your van.
+With the help of some extra hands, hold your plywood in place on the cieling. Then rivet the plywood to your ceiling's braces making sure not to drill your pilot holes through the cieling of your van.
 
-For me I made sure to only put rivets where they would be covered once I secured the lath to my ceiling in a later step.
+I marked on painters tape where I could secure the rivets so that they would be covered once I attached the lath to my ceiling.
 
 <img src="../img/post-images/ceiling-secure.jpg" /> 
 
@@ -151,11 +141,11 @@ For me I made sure to only put rivets where they would be covered once I secured
 
 <hr />
 
-#### <span class="number"><span>5</span></span> Cut hole in roof for fan
+#### <span class="number"><span>4</span></span> Cut hole in roof for fan
 
-The point of no return. Cutting a large hole in your van's roof is by far the scariest day of the build. First, decide approximately where on the roof you want your fan. I wanted mine above my bed and behind where my roof rack and solar panels will end up being. 
+The point of no return. Cutting a large hole in your van's roof is by far the scariest day of the build. First, decide approximately where on the roof you want your fan. I wanted mine above my bed and behind where my roof rack and solar panels would end up being. 
 
-Then find the center of the van's roof by measuring between the roof's side rain gutters. From there you can measure everything else you need to draw a square and centered cut pattern on your roof. Once you're positive everything is right, take a drill and drill a hole in each corner. You'll use these holes as a starting point for your jigsaw. Make sure to use a blade length that punctures your van's metal roof, the insulation and plywood ceiling.
+Find the center of the van's roof by measuring between the roof's side rain gutters. From there you can measure everything else you need to draw a straight and centered cut pattern on your roof. Once you're confident everything is right, take a drill and drill a hole on the inside of each corner. You'll use these holes as a starting point for your jigsaw. Make sure to use a blade length that punctures your van's metal roof, the insulation and plywood ceiling.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -178,35 +168,24 @@ Then find the center of the van's roof by measuring between the roof's side rain
 
 <hr />
 
-#### <span class="number"><span>6</span></span> Install fan
+#### <span class="number"><span>5</span></span> Install fan
 
-If you cut the hole correctly your fan should slide right in. Put lots of caulk in between the roof of the van and the fan to make a proper, water-tight seal. Then put screws in the appropriate places to secure it to your roof.
+If you cut the hole correctly your fan should slide right in. On the exterior of the van, caulk in between the roof of the van and the fan itself to make a proper water-tight seal. Then put screws in the appropriate places to secure it to your roof.
 
 For the inside you'll have an edge cover that will need to be shortened height wise. Measure the correct height needed and then score the cover using a utility knife. You'll then be able to snap the extra plastic off. Screw into place.
 
-<hr />
+IMPORTANT: Your fan will have a negative and positive wire to power it. Slide those to your wall in between the insulation and plywood ceiling. Easiest way is using a coat hangar. Run these wires (taping along the way) to where your main wires will run to your solar.
 
-#### <span class="number"><span>7</span></span> Run wiring for fan
-
-Your fan will have a negative and positive wire for electricity. Slide those to your wall in between the insulation and plywood ceiling. Easiest way is using a coat hangar.
-
-Then run the wires (taping along the way) to where your main wires will run to your solar.
-
-<img src="../img/thumbnails/test.jpg" />
+<img src="../img/post-images/ceiling-fan.jpg" /> 
 
 ##### Take a look at the source for this post to get an idea about how it works.
 
 <hr />
 
-#### <span class="number"><span>8</span></span> Cover ceiling with paneling (optional)
+#### <span class="number"><span>6</span></span> Cover ceiling with paneling (optional)
 
-Using the markings on the plywood ceiling, I secured the pieces of lath to the ceiling with the use of a heavy duty glue and a pneumatic pin nailer. By staggering the lengths of the pieces of lath I was able to create seams that didn't look unnatural.
+Using the markings on the plywood ceiling, I secured the pieces of lath to the ceiling with the use of a heavy duty glue and a pneumatic pin nailer.
 
 <img src="../img/post-images/ceiling-lath.jpg" />
 
 ##### Take a look at the source for this post to get an idea about how it works.
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flooring"
-description: "Something something. so much stuff."
+description: "The floor serves as the base of your build and an easy introduction to the basic principles of carpentry."
 categories: build-manual
 variable: build-manual
 number: 4
@@ -90,7 +90,7 @@ tools:
 ---
 #### <span class="number"><span>1</span></span> Use floor template to cut plywood subfloor
 
-If you still have a flawless floor template from insulating you can use that. Otherwise make a new one. Again the sheet of plywood will be smaller that the floor of your van. You'll have to create another mosaic layout with the plywood. Try to differ the seams of the wood subflooring to that of your rigid panel insulation. 
+If you still have a flawless floor template from insulating you can use it for this step. Otherwise, make a new one. The raw sheets of plywood will be smaller than the floor of your van. You'll have to create another mosaic layout with the plywood. Try to differ the seams of the wood subflooring to that of your rigid panel insulation. 
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -108,7 +108,7 @@ If you still have a flawless floor template from insulating you can use that. Ot
 
 #### <span class="number"><span>2</span></span> Attach subfloor with screws
 
-Once your subfloor is in place inside the van you'll need to secure it to the metal cargo van floor (through the layers of insulation below). I used a chalk line to mark where the cargo van's grooves are and then only drilled where the grooves were raised. Make sure to use anti-rust screws and countersink them into the wood.
+Once your subfloor is in place inside the van you'll need to secure it to the metal cargo van floor through the layers of insulation below. I used a chalk line to mark where the cargo van's floor grooves are and then only drilled where the grooves were raised. Make sure to use anti-rust screws and countersink them into the wood.
 
 <div class="flexslider article-slider">
 <ul class="slides">
@@ -123,9 +123,11 @@ Once your subfloor is in place inside the van you'll need to secure it to the me
 
 <hr />
 
-#### <span class="number"><span>3</span></span> Fill and sand screw holes
+#### <span class="number"><span>3</span></span> Fill and sand screw holes. Caulk seams.
 
 Self explanatory. Fill with wood filler. Use only medium to fine sandpaper grit so you don't sand too much off your wood subfloor.
+
+Using caulk, fill the seams present in the mosaic layout of your subfloor. Make sure the caulk is level with the wood.
 
 <img src="../img/post-images/flooring-holes.jpg" />
 
@@ -133,31 +135,6 @@ Self explanatory. Fill with wood filler. Use only medium to fine sandpaper grit 
 
 <hr />
 
-#### <span class="number"><span>4</span></span> Caulk seams and edge gaps
+#### <span class="number"><span>4</span></span> PAUSE. Finish walls and cieling before laying down floor vinyl
 
-You'll have seams in the mosaic layout of your subfloor. Caulk these flush with the wood. You can use caulk along the edges of the subflooring where the wood meets the wall of your van. Not necessary but a good precaution for moisture.
-
-<div class="flexslider article-slider">
-<ul class="slides">
-  <li>
-  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
-  </li>
-  <li>
-  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
-  </li>
-  <li>
-  	<img src="../img/thumbnails/test.jpg" /><h5>Something</h5>
-  </li>
-</ul>
-</div>
-
-<hr />
-
-#### <span class="number"><span>5</span></span> PAUSE. Finish walls and cieling before laying down floor vinyl
-
-Waiting to install your vinyl floor will prevent it from being scratched or damaged while building the walls and ceiling. Putting up your walls beforehand will also shrink the flooring that you need to cover with vinyl meaning you'll be able to use six foot wide single sheet vinyl instead of the full 12 ft wide varity.
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Waiting to install your vinyl floor will prevent it from being scratched or damaged while building the walls and ceiling. Putting up your walls beforehand will also shrink the flooring that you need to cover with vinyl. This means you'll be able to use six foot wide single sheet vinyl instead of the full 12 ft wide varity.
